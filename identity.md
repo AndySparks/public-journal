@@ -7,17 +7,18 @@ A few hours and double as many pints later, my friend asked me, "What is your id
 While I don't expect this will ever cover the full range of identities I take on or like to think I hold, I think this will be a fun list to keep, share, and update. For the sake of mystery and convenience, the list is not in any particular order of importance—so don't read into it. 
 
 * I am a **part**.
- * “To the world you may be one person; but to one person you may be the world.” — Dr. Seuss
- * “Those who think they have no need of others become unreasonable.” — Luc de Clapiers
- * “He that overvalues himself will undervalue others, and he that undervalues others will oppress them.” — Samuel Johnson
- * “People don't care how much you know until they know how much you care” — Zig Ziglar
- * "What you do is what the whole Universe is doing at the place you call here and now. You are something that the whole Universe is doing in the same way that a wave is something the whole ocean is doing." — Alan Watts
- * ”the function of the artist is to make people like life better than before.” — Kurt Vonnegut
+  * A son, a brother, a grandson, a nephew, a community member.
+  * “To the world you may be one person; but to one person you may be the world.” — Dr. Seuss
+  * “Those who think they have no need of others become unreasonable.” — Luc de Clapiers
+  * “He that overvalues himself will undervalue others, and he that undervalues others will oppress them.” — Samuel Johnson
+  * “People don't care how much you know until they know how much you care” — Zig Ziglar
+  * "What you do is what the whole Universe is doing at the place you call here and now. You are something that the whole Universe is doing in the same way that a wave is something the whole ocean is doing." — Alan Watts
+  * ”the function of the artist is to make people like life better than before.” — Kurt Vonnegut
 
 * I am an **optimist**.
- * It's a hell of a lot more fun this way.
- * "In dreams begin responsibility" — W.B. Yeats
- * "Failure is simply the opportunity to begin again, this time more intelligently." — Henry Ford
+  * It's a hell of a lot more fun this way.
+  * "In dreams begin responsibility" — W.B. Yeats
+  * "Failure is simply the opportunity to begin again, this time more intelligently." — Henry Ford
 
 * I am a **humanist**.
   * "being a **humanist** means trying to behave decently without expectation of rewards or punishment after you are dead." — Kurt Vonnegut, from *God Bless You, Dr. Kevorkian*
@@ -41,7 +42,7 @@ While I don't expect this will ever cover the full range of identities I take on
   * “Good questions outrank easy answers.” — Paul Samuelson
   
 * I am an **entrepreneur**.
- * For better or for worse, the dominant mechanism whereby humans solve problems at this point in history is by banding together in a company—an association of persons for the purpose of carrying on some enterprise or business (Webster).
+  * For better or for worse, the dominant mechanism whereby humans solve problems at this point in history is by banding together in a company—an association of persons for the purpose of carrying on some enterprise or business (Webster).
   
 * I am an **eccentric**.
   * "Deviating from stated methods, usual practice, or established forms or laws; deviating from an appointed sphere or way; departing from the usual course; irregular; anomalous; odd; as, eccentric conduct." — Webster

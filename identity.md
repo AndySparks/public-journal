@@ -24,6 +24,7 @@ While I don't expect this will ever cover the full range of identities I take on
   * "being a **humanist** means trying to behave decently without expectation of rewards or punishment after you are dead." — Kurt Vonnegut, from *God Bless You, Dr. Kevorkian*
   * "I would rather have questions that can't be answered than answers which can't be questioned." — Richard Feynman
   * “If we crave cosmic purpose, then let us find ourselves a worthy goal.” — Carl Sagan
+  * "The central value of humanism based on knowledge then is critical inquiry: the ability to point out flaws in existing knowledge and propose alternatives." — Albert Wenger
 
 * I am a **classical liberal**.
   * I believe in the equal rights of all human beings, supporting & creating institutions that support individuals' rights to life, liberty, and the pursuit of happiness. 

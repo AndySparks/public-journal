@@ -17,4 +17,5 @@
 * Startup Boards
 * Startup Life
 * Growing Pains
+* [Execution is Everything](https://25iq.com/2018/10/28/execution-is-everything/)
 

@@ -10,12 +10,18 @@
 * Tribal Leadership
 
 ## Specific Knowledge
-* [High Growth Handbook](https://www.amazon.com/High-Growth-Handbook-Elad-Gil-ebook/dp/B07DRPGGQ7/)
-* [The Outsiders](https://www.amazon.com/Outsiders-Unconventional-Radically-Rational-Blueprint-ebook/dp/B009G1T74O/)
-* [What It Really Means to be a Manager, Director, or VP](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
-* [When Coffee and Kale Compete](https://www.amazon.com/When-Coffee-Kale-Compete-products-ebook/dp/B07C7HH662)
+* [High Growth Handbook](https://www.amazon.com/High-Growth-Handbook-Elad-Gil-ebook/dp/B07DRPGGQ7/). Once you've reached product-market fit and need to scale, this is the book for you. 
+* [The Outsiders](https://www.amazon.com/Outsiders-Unconventional-Radically-Rational-Blueprint-ebook/dp/B009G1T74O/). CEOs who get outlier-level results don't usually headline conferences, but they do have a lot in common. It's kind of a CEO's job to know what those things are.
+* [What It Really Means to be a Manager, Director, or VP](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/). Before you start handing out titles like it's Halloweeen, make sure you have a framework for what it means to be a VP, Director, or Manager.
+* [When Coffee and Kale Compete](https://www.amazon.com/When-Coffee-Kale-Compete-products-ebook/dp/B07C7HH662). The best single resource on customer jobs ever published. 
+* [Execution is Everything](https://25iq.com/2018/10/28/execution-is-everything/)—A terrific primer on OKRs. 
+* [The Hierarchy of Engagement](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-5803bf4e6cfa)—How to build a product that attracts and keeps users. 
 * Startup Boards
 * Startup Life
 * Growing Pains
-* [Execution is Everything](https://25iq.com/2018/10/28/execution-is-everything/)
+
+### Product-Market Fit
+* [How Superhuman Built an Engine to Find Product/Market Fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+* [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
+* [Product Channel Fit Will Make or Break Your Growth Strategy](https://brianbalfour.com/essays/product-channel-fit-for-growth)
 

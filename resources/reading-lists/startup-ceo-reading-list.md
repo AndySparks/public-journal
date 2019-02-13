@@ -1,4 +1,5 @@
 # Startup CEO Reading List
+*Inspired by HBS Professor Tom Eisenmann's "[Topic Reading Lists](http://platformsandnetworks.blogspot.com)"*
 
 ## General Knowledge
 * [How to Operate](https://genius.com/Keith-rabois-lecture-14-how-to-operate-annotated) by Keith Rabois

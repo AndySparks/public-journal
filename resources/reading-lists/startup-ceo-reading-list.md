@@ -26,3 +26,7 @@
 * [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
 * [Product Channel Fit Will Make or Break Your Growth Strategy](https://brianbalfour.com/essays/product-channel-fit-for-growth)
 
+
+### Sales
+* [The Sales Learning Curve](https://hbr.org/2006/07/the-sales-learning-curve). If you read one thing on sales as a startup founder, especially in SaaS, read this. I fully believe failure to do is borderline negligence. 
+* [How To Pick A Sales Model For Your Software Startup](https://mattermark.com/pick-sales-model-software-startup/)

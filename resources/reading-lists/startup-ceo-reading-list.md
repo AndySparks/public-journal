@@ -16,6 +16,7 @@
 * [When Coffee and Kale Compete](https://www.amazon.com/When-Coffee-Kale-Compete-products-ebook/dp/B07C7HH662). The best single resource on customer jobs ever published. 
 * [Execution is Everything](https://25iq.com/2018/10/28/execution-is-everything/)—A terrific primer on OKRs. 
 * [The Hierarchy of Engagement](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-5803bf4e6cfa)—How to build a product that attracts and keeps users. 
+* [Remote: Office Not Required](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501)
 * Startup Boards
 * Startup Life
 * Growing Pains

@@ -1,5 +1,7 @@
 # Questions for Co-Founders Considering Working Together
 
+When Josh Levy and I started Holloway, we used the following list of questions to determine whether we should work together. I believe the list of questions came from a blog post, but I don't know where. In an effort to find the post, I googled several questions and found partial text matches in both of the posts linked to in #further-reading.
+
 ## Time and Financial Commitments
 1. When are we going full-time?
 2. Are we allowed to take on anything outside of the company? Other (active or inactive) founder roles, advisory roles, paid work?
@@ -30,3 +32,7 @@
     2. Do you advise, sit on any boards of companies, or do you have any conflict of interest with our project?
     3. Is there a “no compete” clause that is active at this time?
     4. For any cash we invest in the company, how is this treated? (e.g. debt? convertible debt? Does it buy a different class of shares?)
+
+## Further Reading
+* [What questions should you ask a potential startup cofounder?](https://medium.com/@adjblog/what-questions-should-you-ask-a-potential-startup-cofounder-644cff322841)
+* [34 Questions to Ask a Potential Co-Founder](https://fi.co/insight/34-questions-to-ask-a-potential-co-founder)

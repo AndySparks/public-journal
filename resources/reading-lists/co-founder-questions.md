@@ -1,6 +1,6 @@
 # Questions for Co-Founders Considering Working Together
 
-When Josh Levy and I started Holloway, we used the following list of questions to determine whether we should work together. I believe the list of questions came from a blog post, but I don't know where. In an effort to find the post, I googled several questions and found partial text matches in both of the posts linked to in #further-reading.
+When Josh Levy and I started Holloway, we used the following list of questions to determine whether we should work together. I believe the list of questions came from a blog post, but I don't know where. In an effort to find the post, I googled several questions and found partial text matches in both of the posts linked to in [further reading](#further-reading).
 
 ## Time and Financial Commitments
 1. When are we going full-time?

@@ -5,6 +5,7 @@ Short-ish reads on figuring out what you want to do:
 * [Guide to Career Planning](http://pmarchive.com/guide_to_career_planning_part0.html) by Marc Andreessen
 * [The Cook and the Chef: Elon Musk's Secret Sauce](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) by Tim Urban. This one is not short at all, but it is fascinating and hilarious.
 * [Ikigai: How to Find Professional Success](https://adamnash.blog/2018/02/06/ikigai-how-to-find-professional-success/)
+* [Designing Your Life](https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321)
     
 *Meta note: sorry these all feel kind of "techy," but I think they're relevant to just about any field.*
 

@@ -6,6 +6,7 @@
 * [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#heading=h.pdmqf3646hgt) by Matt Mochary
 * [Michael Dearing's "General Management" Class Syllabus](https://docs.google.com/document/d/12urC2W5rjN4mCbKCB3SL_gCcfJBYqn0qqdQMOHDCg9M/edit)
 * [Disciplined Entrepreneurship](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup-ebook/dp/B00DQ97TWO/)
+* [Dave Ambrose & Steadfast Capital's framework for evaluating startup founders](https://twitter.com/daveambrose/status/864476831306719232)
 * [The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy-ebook/dp/B002G54Y04/)
 * Founders at Work
 * Tribal Leadership

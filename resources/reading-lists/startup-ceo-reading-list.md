@@ -27,6 +27,11 @@
 * [How Superhuman Built an Engine to Find Product/Market Fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
 * [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
 * [Product Channel Fit Will Make or Break Your Growth Strategy](https://brianbalfour.com/essays/product-channel-fit-for-growth)
+* [The Revenge of the Fat Guy](http://blog.pmarca.com/2010/03/20/the-revenge-of-the-fat-guy/)
+* [Zero to Product/Market Fit (Presentation)](https://andrewchen.co/zero-to-productmarket-fit-presentation/)
+
+### Marketing
+* [What I Learned From Developing Branding for Airbnb, Dropbox and Thumbtack](https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/)
 
 
 ### Sales

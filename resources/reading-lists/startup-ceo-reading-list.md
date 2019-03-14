@@ -32,6 +32,7 @@
 
 ### Marketing
 * [What I Learned From Developing Branding for Airbnb, Dropbox and Thumbtack](https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/)
+* [How to Scale a Magical Experience: 4 Lessons from Airbnb’s Brian Chesky](https://medium.com/@reidhoffman/how-to-scale-a-magical-experience-4-lessons-from-airbnbs-brian-chesky-eca0a182f3e3)
 
 
 ### Sales

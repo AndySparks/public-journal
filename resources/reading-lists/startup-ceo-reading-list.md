@@ -2,7 +2,7 @@
 *Inspired by HBS Professor Tom Eisenmann's "[Topic Reading Lists](http://platformsandnetworks.blogspot.com)"*
 
 ## General Knowledge
-* [How to Operate](https://genius.com/Keith-rabois-lecture-14-how-to-operate-annotated) by Keith Rabois
+* 🔥 [How to Operate](https://genius.com/Keith-rabois-lecture-14-how-to-operate-annotated) by Keith Rabois
 * [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#heading=h.pdmqf3646hgt) by Matt Mochary
 * [Michael Dearing's "General Management" Class Syllabus](https://docs.google.com/document/d/12urC2W5rjN4mCbKCB3SL_gCcfJBYqn0qqdQMOHDCg9M/edit)
 * [Disciplined Entrepreneurship](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup-ebook/dp/B00DQ97TWO/)

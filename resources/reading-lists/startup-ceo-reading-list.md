@@ -34,8 +34,11 @@
 * [What I Learned From Developing Branding for Airbnb, Dropbox and Thumbtack](https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/)
 * [How to Scale a Magical Experience: 4 Lessons from Airbnb’s Brian Chesky](https://medium.com/@reidhoffman/how-to-scale-a-magical-experience-4-lessons-from-airbnbs-brian-chesky-eca0a182f3e3)
 
-
 ### Sales
 * [The Sales Learning Curve](https://hbr.org/2006/07/the-sales-learning-curve). If you read one thing on sales as a startup founder, especially in SaaS, read this. I fully believe failure to do is borderline negligence. 
 * [How To Pick A Sales Model For Your Software Startup](https://mattermark.com/pick-sales-model-software-startup/)
   * [The pricing valley of death](https://davidjaxon.wordpress.com/2014/12/18/the-pricing-valley-of-death/)
+  
+### Coaches
+* [This Man Makes Founders Cry](https://www.wired.com/2017/02/this-man-makes-founders-cry/)
+* [The Science of Speaking is the Art of Being Heard](https://firstround.com/review/the-science-of-speaking-is-the-art-of-being-heard/)

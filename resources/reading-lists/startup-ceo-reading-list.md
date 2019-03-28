@@ -41,6 +41,7 @@
 ### Marketing
 * [What I Learned From Developing Branding for Airbnb, Dropbox and Thumbtack](https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/)
 * [How to Scale a Magical Experience: 4 Lessons from Airbnb’s Brian Chesky](https://medium.com/@reidhoffman/how-to-scale-a-magical-experience-4-lessons-from-airbnbs-brian-chesky-eca0a182f3e3)
+* [Onym], tools and resources for naming things.
 
 ### Sales
 * [The Sales Learning Curve](https://hbr.org/2006/07/the-sales-learning-curve). If you read one thing on sales as a startup founder, especially in SaaS, read this. I fully believe failure to do is borderline negligence. 

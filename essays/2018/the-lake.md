@@ -1,4 +1,4 @@
-# The Lake. Edition No. 1
+# The Lake—Edition No. 1
 
 Somewhere along the way I came up with this metaphor that life is like a well. I can't be the first person to say something like that, but I'm comfortable calling this idea mine. Over the years I've developed it and I think about it almost every day. One key characteristic to wells is that they're deep. But most people only ever see the surface. Sure, they drink from the well, but who knows how deep it goes? What's down there?
 

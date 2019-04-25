@@ -23,6 +23,10 @@
 * Startup Life
 * Growing Pains
 
+### Management
+* [Thinly Disguised Contempt](https://feld.com/archives/2004/05/tdc-thinly-disguised-contempt.html)
+
+
 ### Product-Market Fit
 * [How Superhuman Built an Engine to Find Product/Market Fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
 * [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)

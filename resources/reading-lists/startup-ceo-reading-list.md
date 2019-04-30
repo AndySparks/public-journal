@@ -8,6 +8,7 @@
 * [Disciplined Entrepreneurship](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup-ebook/dp/B00DQ97TWO/)
 * [Dave Ambrose & Steadfast Capital's framework for evaluating startup founders](https://twitter.com/daveambrose/status/864476831306719232)
 * [The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy-ebook/dp/B002G54Y04/)
+* [The Emotional Journey of Creating Anything Great](https://john.do/emotional-journey-creating/)
 * Founders at Work
 * Tribal Leadership
 

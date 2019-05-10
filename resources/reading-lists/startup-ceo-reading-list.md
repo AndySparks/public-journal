@@ -59,6 +59,7 @@
 * [The Sales Learning Curve](https://hbr.org/2006/07/the-sales-learning-curve). If you read one thing on sales as a startup founder, especially in SaaS, read this. I fully believe failure to do is borderline negligence. 
 * [How To Pick A Sales Model For Your Software Startup](https://mattermark.com/pick-sales-model-software-startup/)
   * [The pricing valley of death](https://davidjaxon.wordpress.com/2014/12/18/the-pricing-valley-of-death/)
+* [Direct Sales for Bootstrapped SaaS Startups: from $1,300 to $725,000 MRR](https://nathanbarry.com/sales/)
   
 ### Coaches
 * [This Man Makes Founders Cry](https://www.wired.com/2017/02/this-man-makes-founders-cry/)

@@ -6,6 +6,7 @@
 - [Reading](https://twitter.com/patrickc/lists/reading) by [Patrick Collison](https://twitter.com/patrickc)
 - [Who You're Up](https://mobile.twitter.com/ekhornung/lists/who-you-re-up-against) [Against](https://twitter.com/ekhornung/lists/who-you-re-up-against) by [Eric Hornung](https://twitter.com/ekhornung)
 - [Social Capital for Entrepreneurs](https://twitter.com/CaseFoundation/lists/social-capital-for-treps) by [The Case Foundation](https://twitter.com/CaseFoundation/lists/social-capital-for-treps)
+- [The 2018 List of 200 Black Women in Tech to Follow On Twitter](https://twitter.com/JenebaSpeaks/lists/the-200-list-2018/members) by [Jay Jay Ghatt](https://twitter.com/JenebaSpeaks)
 
 ## Startup Investors
 - [Investors/VC/Angel](https://twitter.com/Scobleizer/lists/investors-vc-angel) by [Robert Scoble](https://twitter.com/Scobleizer)

@@ -5,7 +5,7 @@
 - "[Tommorrow](https://twitter.com/michael_nielsen/lists/tomorrow)" by [Michael Nielsen](https://twitter.com/michael_nielsen/)
 - "[Reading](https://twitter.com/patrickc/lists/reading)" by [Patrick Collison](https://twitter.com/patrickc)
 - "[Who You're Up](https://mobile.twitter.com/ekhornung/lists/who-you-re-up-against) [Against](https://twitter.com/ekhornung/lists/who-you-re-up-against)" by [Eric Hornung](https://twitter.com/ekhornung)
-- (Social Capital for Entrepreneurs)[https://twitter.com/CaseFoundation/lists/social-capital-for-treps] by [The Case Foundation](https://twitter.com/CaseFoundation/lists/social-capital-for-treps)
+- [Social Capital for Entrepreneurs](https://twitter.com/CaseFoundation/lists/social-capital-for-treps) by [The Case Foundation](https://twitter.com/CaseFoundation/lists/social-capital-for-treps)
 
 ## Startup Investors
 - [Investors/VC/Angel](https://twitter.com/Scobleizer/lists/investors-vc-angel) by [Robert Scoble](https://twitter.com/Scobleizer)

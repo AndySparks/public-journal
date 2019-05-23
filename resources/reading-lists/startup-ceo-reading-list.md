@@ -20,6 +20,7 @@
 * [Execution is Everything](https://25iq.com/2018/10/28/execution-is-everything/)—A terrific primer on OKRs. 
 * [The Hierarchy of Engagement](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-5803bf4e6cfa)—How to build a product that attracts and keeps users. 
 * [Remote: Office Not Required](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501)
+* [The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)
 * Startup Boards
 * Startup Life
 * Growing Pains

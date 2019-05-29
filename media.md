@@ -12,8 +12,11 @@
 ## Mattermark
 - [In a town of gamblers, Mattermark is counting cards](https://venturebeat.com/2013/08/22/in-a-town-of-gamblers-mattermark-is-counting-cards/)
 - [Mattermark – An Example of How We Decide to Invest](https://feld.com/archives/2014/12/mattermark-example-decide-invest.html)
+- [How Startups Can Become The Unexpected Parental Leave Champs](https://techcrunch.com/2015/10/28/how-startups-can-become-the-unexpected-parental-leave-champs/)
+- [Sales research startup Mattermark raises $7.3 million, now valued at $42 million](https://venturebeat.com/2016/03/20/sales-research-startup-mattermark-raises-7-3-million-now-valued-at-42-million/)
 - [Mattermark to shut down after selling to FullContact](https://techcrunch.com/2017/12/21/mattermark-to-shut-down-after-selling-to-full-contact/)
 
-## Profiles
+## Articles
 - [Finding Founders Andy Sparks of Holloway](http://www.battlecry.co/battlecryblog-meat-space/finding-founders-andy-sparks-of-holloway)
+- [Failure, family and the wisdom of Yoda: 3 tips on dealing with startup pain](https://www.geekwire.com/2015/failure-family-and-the-wisdom-of-yoda-3-tips-on-dealing-with-startup-pain/)
 - [Forbes 30 Under 30](https://www.forbes.com/profile/andy-sparks/#71907ad0120a)

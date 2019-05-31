@@ -18,3 +18,8 @@ Books on figuring out what you want to do:
 Short-ish reads on more tactical parts of meeting smart people and asking for things:
 * [Most People Won’t](http://bryce.vc/post/64889707700/most-people-wont) by Bryce Roberts
 * [How to Write a Forwardable Introduction Email](https://alexiskold.net/2015/06/24/how-to-write-a-forwardable-introduction-email/) by Alex Iskold. Alternate title: "the most valuable skill ever to get introduced to just about anyone you want to know." 
+* [Identify Leaders By Giving People Assignments](https://feld.com/archives/2014/12/identify-leaders-giving-people-assignments.html) by Brad Feld
+
+Other
+* [On Mentoring](https://themanual.org/read/issues/4/diana-kimball/article)
+* [Have some coffee & stop worrying about finding a “mentor.”](https://medium.com/thelist/have-some-coffee-9e468d958e77)

@@ -49,6 +49,7 @@
 * [What I Learned From Developing Branding for Airbnb, Dropbox and Thumbtack](https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/)
 * [How to Scale a Magical Experience: 4 Lessons from Airbnb’s Brian Chesky](https://medium.com/@reidhoffman/how-to-scale-a-magical-experience-4-lessons-from-airbnbs-brian-chesky-eca0a182f3e3)
 * [Onym], tools and resources for naming things.
+- [Beyond Land: Atlassian’s Guide to Customer Expansion: A Conversation with TCV’s David Yuan and Atlassian’s Cameron Deatsch](https://www.tcv.com/news/beyond-land-atlassians-guide-customer-expansion-conversation-tcvs-david-yuan-atlassians-cameron-deatsch/)
 
 #### Pricing
 * [The Psychology of Price](https://www.amazon.com/Psychology-Price-increase-customer-satisfaction-ebook/dp/B00AFT2DO2)

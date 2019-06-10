@@ -56,6 +56,7 @@
 * [Van Westendorp's Price Sensitivity Meter](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter)
 * [It’s Price Before Product. Period.](https://firstround.com/review/its-price-before-product-period/)
 * [The Sequoia Guide to Pricing](https://www.sequoiacap.com/article/pricing-your-product)
+* [“Pricing an Elephant” – Q&A with Evernote CMO, Andrew Malcolm](https://www.linkedin.com/pulse/pricing-elephant-qa-evernote-cmo-andrew-malcolm-david-yuan/)
 
 ### Sales
 * [The Sales Learning Curve](https://hbr.org/2006/07/the-sales-learning-curve). If you read one thing on sales as a startup founder, especially in SaaS, read this. I fully believe failure to do is borderline negligence. 

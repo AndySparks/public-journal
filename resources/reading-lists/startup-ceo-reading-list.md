@@ -41,10 +41,6 @@
 * [David Sacks points out how PMF can be dangerous](https://twitter.com/DavidSacks/status/983034592092286977)
 * [PG on how to approach ambitious startup ideas: "The way to do really big things seems to be to start with deceptively small things."](https://twitter.com/toddg777/status/1108886349984129024)
 
-### Design
-* [The Shape of Design](https://shapeofdesignbook.com), Frank Chimero
-* [Design for Hackers](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956), David Kadavy
-
 ### Marketing
 * [What I Learned From Developing Branding for Airbnb, Dropbox and Thumbtack](https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/)
 * [How to Scale a Magical Experience: 4 Lessons from Airbnb’s Brian Chesky](https://medium.com/@reidhoffman/how-to-scale-a-magical-experience-4-lessons-from-airbnbs-brian-chesky-eca0a182f3e3)

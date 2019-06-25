@@ -8,3 +8,4 @@
 - [Startup Boards](https://www.amazon.com/Startup-Boards-Getting-Board-Directors/dp/1118443667), Brad Feld
 - [The Secret to Making Board Meetings Suck Less](http://firstround.com/review/The-Secret-to-Making-Board-Meetings-Suck-Less/), First Round Capital
 - [Let’s Fix Startup Board Meetings](https://techcrunch.com/2016/02/01/1270130/), Jon Callaghan
+- [How to Be a Good Board Member](https://bothsidesofthetable.com/how-to-be-a-good-board-member-df07f43d9aa8)

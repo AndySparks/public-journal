@@ -1,5 +1,6 @@
 # On Board Meetings
 
+- [Lessons from Keith Rabois Essay 4: How to run an Effective Board Meeting and make an Effective Board Deck](http://delian.io/lessons-4)
 - [Running More Effective Board Meetings at Startups](https://bothsidesofthetable.com/running-more-effective-board-meetings-at-startups-e96cb5180de2), Mark Suster
 - [Are Board Meetings A Waste of Time at the Seed Stage?](https://www.cleverism.com/board-meetings-waste-time-seed-stage/)
 - [Preparing a Board Deck](https://www.sequoiacap.com/article/preparing-a-board-deck/), Sequoia Capital

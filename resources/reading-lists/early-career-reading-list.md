@@ -21,8 +21,9 @@
 * [Identify Leaders By Giving People Assignments](https://feld.com/archives/2014/12/identify-leaders-giving-people-assignments.html) by Brad Feld
 
 ## Other
-* [On Mentoring](https://themanual.org/read/issues/4/diana-kimball/article)
-* [Have some coffee & stop worrying about finding a “mentor.”](https://medium.com/thelist/have-some-coffee-9e468d958e77)
+- [On Mentoring](https://themanual.org/read/issues/4/diana-kimball/article)
+- [Have some coffee & stop worrying about finding a “mentor.”](https://medium.com/thelist/have-some-coffee-9e468d958e77)
+- [How to Be Great? Just be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 
 ## Network suggestions
 I haven't read these, so I can't personally recommend them, but other people have written to me suggesting that I add them to this list.

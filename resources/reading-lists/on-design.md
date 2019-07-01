@@ -11,3 +11,4 @@
 - [Ruined by Design](https://www.amazon.com/Ruined-Design-Designers-Destroyed-World/dp/1090532083/), Mike Monteiro
 - [Tragic Design: The Impact of Bad Product Design and How to Fix It](https://www.amazon.com/Tragic-Design-Impact-Bad-Product/dp/149192361X/), Jonathan Shariat & Cynthia Savard Saucier
 - [Grid systems in graphic design](https://www.amazon.com/gp/product/3721201450/)
+- 🔥 [Refactoring UI: The Book](https://refactoringui.com/book)

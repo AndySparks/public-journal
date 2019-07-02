@@ -28,8 +28,6 @@
         - **Build** an assortment around to probe demand curve and increase conversion.
 - [The Sequoia Guide to Pricing](https://www.sequoiacap.com/grove/posts/afed/pricing-your-product) (based onto Michael Dearing's pricing ideas)
     - Consider *never* discounting your "premium" offering
-    - What if we actually charged VC firms *more?* So their "in-network" privilege plans subsidized plans for others?
-    - What will people anchor this against? Books? Legal advice? Conferences? Online courses? Textbooks?
 - [The Price Is Right: And for Early-Stage SaaS Companies, It Needs to Be](http://a16z.com/2014/05/19/saas-pricing-strategies/) - Steven Sinofsky
 - [How to Price and Sell Your Startup’s Product](http://tomtunguz.com/your-startups-pricing-plan/) - Tom Tunguz
 - [Picking Your Pricing Model](http://blog.intercom.io/picking-your-pricing-model/) - Des Traynor

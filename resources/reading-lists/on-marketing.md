@@ -13,7 +13,7 @@
 #### Books
 
 - *[The Psychology of Price](https://www.amazon.com/Psychology-Price-increase-customer-satisfaction-ebook/dp/B00AFT2DO2)* by Leigh Caldwell
-- *[Monetizing Innovation: How Smart Companies Design the Product Around the Price]*(https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1536631078) by Madhavan Ramanujam
+- *[Monetizing Innovation: How Smart Companies Design the Product Around the Price](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1536631078)* by Madhavan Ramanujam
 
 #### Articles
 

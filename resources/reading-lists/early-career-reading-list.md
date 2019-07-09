@@ -25,6 +25,7 @@
 - [Have some coffee & stop worrying about finding a “mentor.”](https://medium.com/thelist/have-some-coffee-9e468d958e77)
 - [How to Be Great? Just be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 - [Effort Neglect and The Second Textbook](https://medium.com/@kevinconnolly/effort-neglect-and-the-second-textbook-434a3400be2f)
+- [Career Transition Risk and the Ladder of Legitimacy](https://www.nickdewilde.com/career-transitions-and-the-ladder-of-legitimacy/)
 
 ## Network suggestions
 I haven't read these, so I can't personally recommend them, but other people have written to me suggesting that I add them to this list.

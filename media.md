@@ -9,6 +9,9 @@
 - [Product Hunt Radio: Episode 18 w/ Danielle Morrill, Andy Sparks, & Angela Kingyens](https://ryanhoover.me/post/94501580973/product-hunt-radio-episode-18-w-danielle)
 - [The Pipeline Tactics of Mattermark’s Sales Team](http://rocketship.fm/episodes/ep-113-andy-sparks/)
 
+## Holloway
+- [Holloway launches in-depth startup guides, aims to rewrite publishing with $4.6M from NYT, tech VCs](https://techcrunch.com/2019/08/01/holloway-launches-in-depth-startup-guides-aims-to-rewrite-publishing-with-4-6m-from-nyt-top-tech-investors/)
+
 ## Mattermark
 - [In a town of gamblers, Mattermark is counting cards](https://venturebeat.com/2013/08/22/in-a-town-of-gamblers-mattermark-is-counting-cards/)
 - [Backed By NEA And Andreessen Horowitz, Mattermark (Formerly Referly) Wants To Be The Data Signaling Platform For VCs](https://techcrunch.com/2013/06/04/backed-by-nea-andreessen-horowitz-mattermark-formerly-referly-wants-to-be-the-data-signaling-platform-for-vcs/)

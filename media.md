@@ -11,6 +11,7 @@
 
 ## Holloway
 - [Holloway launches in-depth startup guides, aims to rewrite publishing with $4.6M from NYT, tech VCs](https://techcrunch.com/2019/08/01/holloway-launches-in-depth-startup-guides-aims-to-rewrite-publishing-with-4-6m-from-nyt-top-tech-investors/)
+- [Here's the pitch deck that Holloway used to raise $4.6 million from NEA and The New York Times for its online 'how-to' manual business](https://www.businessinsider.com/holloway-seed-funding-pitch-deck-nea-2019-7)
 
 ## Mattermark
 - [In a town of gamblers, Mattermark is counting cards](https://venturebeat.com/2013/08/22/in-a-town-of-gamblers-mattermark-is-counting-cards/)

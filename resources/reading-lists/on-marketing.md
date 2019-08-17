@@ -7,6 +7,7 @@
 - [Beyond Land: Atlassian’s Guide to Customer Expansion: A Conversation with TCV’s David Yuan and Atlassian’s Cameron Deatsch](https://www.tcv.com/news/beyond-land-atlassians-guide-customer-expansion-conversation-tcvs-david-yuan-atlassians-cameron-deatsch/)
 - [Growing supply in a marketplace](https://twitter.com/andrewchen/status/1143540545400102912), Andrew Chen
 - [308 Free Resources for Marketing](https://usefyi.com/templates/marketing-templates/)
+- [Demand Curve](https://www.demandcurve.com/)
 
 ### Pricing
 

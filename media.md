@@ -1,6 +1,7 @@
 # Media
 
 ## Podcasts
+- [Boundless with Paul Millerd](https://think-boundless.com/andy-sparks/)
 - [Crazy Wisdom: How do you write clearly for business?](https://podcasts.apple.com/gb/podcast/andy-sparks-how-do-you-write-clearly-for-business/id1354589767?i=1000444285877)
 - [CC015: geography and investing, should location matter? (live from SXSW 2019) // a panel with Andy Sparks (Holloway), Rachel Carpenter (Intrinio), and Brandon Bryant (Harlem Capital)](https://upside.fm/sxsw-2019/)
 - [Week 9: Andy Sparks, Mattermark](https://52founders.com/week-9-andy-sparks-mattermark-69915bb35e37)

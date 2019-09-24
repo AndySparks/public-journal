@@ -7,6 +7,7 @@
 - [Nautilus](http://nautil.us/)
 - [Offscreen Magazine](https://www.offscreenmag.com/)
 - [Gossamer](https://www.gossamer.co/)
+- https://www.laphamsquarterly.org/
 
 ## Newsletters
 - [Dense Discovery](https://www.densediscovery.com/)

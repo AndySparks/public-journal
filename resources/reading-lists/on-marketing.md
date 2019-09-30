@@ -16,7 +16,6 @@
 - [*The Psychology of Price*](https://www.amazon.com/Psychology-Price-increase-customer-satisfaction-ebook/dp/B00AFT2DO2) by Leigh Caldwell
 - [*Monetizing Innovation: How Smart Companies Design the Product Around the Price*](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1536631078) by Madhavan Ramanujam
 - [*The Anatomy of SaaS Pricing Strategy*](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf) by Price Intelligently
-- [The Three Rules of Freemium](https://medium.com/point-nine-news/the-three-rules-of-freemium-ebd85dfc6e5a)
 
 #### Articles
 
@@ -34,3 +33,4 @@
 - [The Price Is Right: And for Early-Stage SaaS Companies, It Needs to Be](http://a16z.com/2014/05/19/saas-pricing-strategies/) - Steven Sinofsky
 - [How to Price and Sell Your Startup’s Product](http://tomtunguz.com/your-startups-pricing-plan/) - Tom Tunguz
 - [Picking Your Pricing Model](http://blog.intercom.io/picking-your-pricing-model/) - Des Traynor
+- [The Three Rules of Freemium](https://medium.com/point-nine-news/the-three-rules-of-freemium-ebd85dfc6e5a)

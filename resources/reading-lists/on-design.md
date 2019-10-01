@@ -15,7 +15,7 @@
 - [Design + Code](https://designcode.io)
 
 ## Hiring for Design
--[The UX Designer Hiring Guide, by Semplice](https://www.semplice.com/the-ux-designer-hiring-guide)
+- [The UX Designer Hiring Guide, by Semplice](https://www.semplice.com/the-ux-designer-hiring-guide)
 
 
 ## Resources

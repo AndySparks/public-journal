@@ -47,6 +47,7 @@
   * [The pricing valley of death](https://davidjaxon.wordpress.com/2014/12/18/the-pricing-valley-of-death/)
 * [Direct Sales for Bootstrapped SaaS Startups: from $1,300 to $725,000 MRR](https://nathanbarry.com/sales/)
 * [Founding Sales](https://www.foundingsales.com/)
+* [SaaS Startup Strategy | Three SaaS Sales Models](http://chaotic-flow.com/saas-startup-strategy-three-saas-sales-models/)
   
 ### Coaches
 * [This Man Makes Founders Cry](https://www.wired.com/2017/02/this-man-makes-founders-cry/)

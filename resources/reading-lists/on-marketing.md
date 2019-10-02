@@ -9,6 +9,10 @@
 - [308 Free Resources for Marketing](https://usefyi.com/templates/marketing-templates/)
 - [Demand Curve](https://www.demandcurve.com/)
 
+## Growth Hacking
+- [You don't need a "Growth Hacker," just a data-driven marketer](https://www.clickz.com/you-dont-need-a-growth-hacker-just-a-data-driven-marketer/109610/)
+- [A Post Mortem on Growth Hacking](https://medium.com/@ibringtraffic/a-post-mortem-on-growth-hacking-f2824ec6d7ec)
+
 ### Pricing
 
 #### Books

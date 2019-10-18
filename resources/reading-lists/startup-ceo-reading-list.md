@@ -48,6 +48,7 @@
 * [Direct Sales for Bootstrapped SaaS Startups: from $1,300 to $725,000 MRR](https://nathanbarry.com/sales/)
 * [Founding Sales](https://www.foundingsales.com/)
 * [SaaS Startup Strategy | Three SaaS Sales Models](http://chaotic-flow.com/saas-startup-strategy-three-saas-sales-models/)
+* [Good sales emails](https://goodsalesemails.com/)
   
 ### Coaches
 * [This Man Makes Founders Cry](https://www.wired.com/2017/02/this-man-makes-founders-cry/)

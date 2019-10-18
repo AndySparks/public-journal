@@ -21,3 +21,4 @@
 ## Resources
 - [Streamline Icons](https://streamlineicons.com/)
 - [Semplice Supply](https://www.semplice.com/supply)
+- [Design Files: Professional resources for digital designers](https://files.design/)

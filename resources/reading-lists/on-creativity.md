@@ -9,6 +9,7 @@
   - 🎥 [The surprising habits of original thinkers](https://www.youtube.com/watch?v=fxbCHn6gE3U), Adam Grant
     - [Good and Bad Procrastination](http://www.paulgraham.com/procrastination.html), Paul Graham
   - [Why You Procrastinate (It Has Nothing to Do With Self-Control)](https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html), Charlotte Lieberman
+    - “'Procrastination is an emotion regulation problem, not a time management problem,' said Dr. Tim Pychyl, professor of psychology and member of the Procrastination Research Group at Carleton University in Ottawa."
   - [Why we wait: the neuroscience of procrastination](https://nesslabs.com/neuroscience-of-procrastination), Anne-Laure Le Cunff
   - [Lazy: A Manifesto](https://tim.blog/2015/04/03/lazy-a-manifesto/), Tim Ferriss and Judd Apatow
   

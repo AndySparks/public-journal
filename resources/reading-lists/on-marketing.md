@@ -24,6 +24,7 @@
 #### Articles
 
 - [Van Westendorp's Price Sensitivity Meter (PSM)](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter): Great introduction to survey methodology for demand curves and price sensitivity.
+    - [Easy Guide: How to Run a Van Westendorp Pricing Analysis](https://apollonsky.me/how-to-van-westendorp-analysis-excel/)
 - [It’s Price Before Product. Period](https://firstround.com/review/its-price-before-product-period/): This article is an introduction to a lot of the ideas in *[Monetizing Innovation](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1536631078)*
 - [Taylor Swift, iOS, and the Access Economy: Why the Normal Distribution is Vanishing](https://alexdanco.com/2015/12/17/taylor-swift-ios-and-the-access-economy-why-the-normal-distribution-is-vanishing/)
 - [Harrison Metal's Michael Dearing on Pricing](https://www.slideshare.net/heavybit/heavybit-presents-harrison-metals-michael-dearing-on-pricing)

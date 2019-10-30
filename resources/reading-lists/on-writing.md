@@ -12,5 +12,7 @@
 ## Quotes
 > "Mark Twain once opined in his homey way: “The difference between the right word and the almost right word is the difference between lightning and the lightning bug.” He was droll but incomplete. During those long months of beginning my Cantos on Heaven’s Gate, I discovered that the difference between finding the right word as opposed to accepting the almost right word was the difference between being struck by lightning and merely watching a lightning display." —Dan Simmons, Hyperion (Hyperion Cantos, Book 1)
 
+> ""The road to hell is paved with adverbs....they're like dandelions...one in your lawn, it looks pretty and unique...if you fail to root it out...your lawn is totally, completely, and profligately covered with dandelions." -Stephen King
+
 ## Tools
 - My favorite tool to write with is [iA Writer](https://ia.net/writer)

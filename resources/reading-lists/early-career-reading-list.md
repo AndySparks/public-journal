@@ -1,4 +1,6 @@
-# Early Career Reading List
+# Career Reading List
+
+Something that's half-baked for me is the importance of creating a system of checkpoints in your career for yourself. For me, I check-in with myself between Christmas and the New Year each year. I reflect back on the year, reevaluate my wants, set new goals. Then, about once every 3-4 years in my 20s, a big career thing would happen which would require me to reevaluate the entire thing at a much deeper level. The articles below are things I use to make sure I'm headed in the right direction.
 
 ## Short-ish reads on figuring out what you want to do
 * [Love](http://www.paulgraham.com/love.html) by Paul Graham
@@ -26,6 +28,7 @@
 - [How to Be Great? Just be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 - [Effort Neglect and The Second Textbook](https://medium.com/@kevinconnolly/effort-neglect-and-the-second-textbook-434a3400be2f)
 - [Career Transition Risk and the Ladder of Legitimacy](https://www.nickdewilde.com/career-transitions-and-the-ladder-of-legitimacy/)
+- [Advice to my younger self](https://blog.alexmaccaw.com/advice-to-my-younger-self)
 
 ## Network suggestions
 I haven't read these, so I can't personally recommend them, but other people have written to me suggesting that I add them to this list.

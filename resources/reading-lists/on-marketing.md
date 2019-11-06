@@ -13,8 +13,19 @@
 - [You don't need a "Growth Hacker," just a data-driven marketer](https://www.clickz.com/you-dont-need-a-growth-hacker-just-a-data-driven-marketer/109610/)
 - [A Post Mortem on Growth Hacking](https://medium.com/@ibringtraffic/a-post-mortem-on-growth-hacking-f2824ec6d7ec)
 
-## Copywriting
+## Storytelling
+- [How to Tell Your Story: A Simple Framework for Startups](https://www.slideshare.net/ommalik/how-to-tell-your-story-a-simple-framework-for-startups-188319803/)
+
+
+## Content
+
+### Blogging
+- [How to write a good blog post](https://om.co/2016/03/26/how-to-write-a-good-blog-post/)
+
+### Copywriting
 - [The Science Behind High-Performing Headlines](https://www.crazyegg.com/blog/high-performing-headlines/)
+
+
 
 ### Pricing
 

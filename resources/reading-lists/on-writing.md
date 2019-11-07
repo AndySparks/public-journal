@@ -8,6 +8,7 @@
 - [Why Does Writing Suck?](https://www.thecut.com/2019/06/why-does-writing-suck.html)
 - [Hiten Shah tweet on writing w/ tons of replies](https://twitter.com/hnshah/status/1156064424018317312?s=20)
 - [Write to Express, Not to Impress](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
+- [How to write a good blog post](https://om.co/2016/03/26/how-to-write-a-good-blog-post/)
 
 ## Quotes
 > "Mark Twain once opined in his homey way: “The difference between the right word and the almost right word is the difference between lightning and the lightning bug.” He was droll but incomplete. During those long months of beginning my Cantos on Heaven’s Gate, I discovered that the difference between finding the right word as opposed to accepting the almost right word was the difference between being struck by lightning and merely watching a lightning display." —Dan Simmons, Hyperion (Hyperion Cantos, Book 1)

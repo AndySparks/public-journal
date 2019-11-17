@@ -53,3 +53,7 @@
 ### Coaches
 * [This Man Makes Founders Cry](https://www.wired.com/2017/02/this-man-makes-founders-cry/)
 * [The Science of Speaking is the Art of Being Heard](https://firstround.com/review/the-science-of-speaking-is-the-art-of-being-heard/)
+
+### Product
+- [Learn Product](http://learnproduct.com/)
+- [Open Product Management](https://github.com/ProductHired/open-product-management)

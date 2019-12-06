@@ -1,6 +1,7 @@
 # Media
 
 ## Podcasts
+- [056 - Andy Sparks (Holloway) On The Future of Books](https://www.breaker.audio/forward-thinking-founders/e/54455987)
 - [Tech Talks Daily #1013: How Holloway Is Rewriting Publishing With Its Startup Guides](https://techblogwriter.co.uk/holloway/)
 - [Boundless with Paul Millerd](https://think-boundless.com/andy-sparks/)
 - [Crazy Wisdom: How do you write clearly for business?](https://podcasts.apple.com/gb/podcast/andy-sparks-how-do-you-write-clearly-for-business/id1354589767?i=1000444285877)

@@ -29,6 +29,8 @@ Something that's half-baked for me is the importance of creating a system of che
 - [Effort Neglect and The Second Textbook](https://medium.com/@kevinconnolly/effort-neglect-and-the-second-textbook-434a3400be2f)
 - [Career Transition Risk and the Ladder of Legitimacy](https://www.nickdewilde.com/career-transitions-and-the-ladder-of-legitimacy/)
 - [Advice to my younger self](https://blog.alexmaccaw.com/advice-to-my-younger-self)
+- [The Holloway Guide to Using Twitter](https://www.holloway.com/g/using-twitter)
+- [How to make friends over the internet](https://guzey.com/how-to-make-friends-over-the-internet/)
 
 ## Network suggestions
 I haven't read these, so I can't personally recommend them, but other people have written to me suggesting that I add them to this list.

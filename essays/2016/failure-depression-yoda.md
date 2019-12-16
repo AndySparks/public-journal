@@ -10,7 +10,7 @@ Isaac Asimov wrote a book called *The End of Eternity*. It’s a great science 
 
 The society Asimov created, called “Eternity,“ essentially rooted out failures. I think this passage is particularly relevant to failure, pain, and depression:
 
-# *“It is in meeting the great tests that mankind can most successfully rise to great heights. Out of danger and restless insecurity comes the force that pushes mankind to newer and loftier conquests.Can you understand that? Can you understand that in averting the pitfalls and miseries that beset man, Eternity prevents men from finding their own bitter and better solutions, the real solutions that come from conquering difficulty, not avoiding it?”*
+> “It is in meeting the great tests that mankind can most successfully rise to great heights. Out of danger and restless insecurity comes the force that pushes mankind to newer and loftier conquests.Can you understand that? Can you understand that in averting the pitfalls and miseries that beset man, Eternity prevents men from finding their own bitter and better solutions, the real solutions that come from conquering difficulty, not avoiding it?”*
 
 In December of 2011, I was living in the Short North in Columbus, Ohio. I graduated from Ohio State about seven months earlier and was working for a company called Duet Health.
 
@@ -68,7 +68,7 @@ A mentor mine named Christian Long also responded to my email. He still lives he
 
 “Do or do not. There is no try.” This email meant so much to me. I wasn’t looking for sympathy, and this was not that. It was support; it was encouragement.
 
-# It helped me realize that failure is something that happens when you set out on adventures.
+> It helped me realize that failure is something that happens when you set out on adventures.
 
 I pictured Luke on Dagobah with Yoda. I knew the path ahead of me wouldn’t be easy, but Christian helped me see that there *was* a path ahead.
 
@@ -110,7 +110,7 @@ See, running my own company, whether it’s going well or not, was like a*really
 
 I started to understand why Joël called me and asked me if I was okay. Over the next month and a half, I got a couple great opportunities, but nothing really *spoke* to me. I felt like I’d be making the same mistake I made when I started a company and didn’t care about the problem.
 
-# One thing was for sure — being on Dagobah sucked.
+> One thing was for sure — being on Dagobah sucked.
 
 Then one morning, Danielle texted me saying she’d like to “buy my company.” I didn’t know what that really meant, but I drove up to San Francisco immediately to get coffee with her.
 

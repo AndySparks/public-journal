@@ -14,6 +14,7 @@
 - [The Pipeline Tactics of Mattermark’s Sales Team](http://rocketship.fm/episodes/ep-113-andy-sparks/)
 
 ## Holloway
+- [Holloway Is Building A New Way To Publish Books Online](https://www.forbes.com/sites/theodorecasey/2019/12/19/holloway-is-building-a-new-way-to-publish-books-online/)
 - [Holloway launches in-depth startup guides, aims to rewrite publishing with $4.6M from NYT, tech VCs](https://techcrunch.com/2019/08/01/holloway-launches-in-depth-startup-guides-aims-to-rewrite-publishing-with-4-6m-from-nyt-top-tech-investors/)
 - [Here's the pitch deck that Holloway used to raise $4.6 million from NEA and The New York Times for its online 'how-to' manual business](https://www.businessinsider.com/holloway-seed-funding-pitch-deck-nea-2019-7)
 - [Holloway raises money to rewrite publishing for today’s digital future](https://thehustle.co/Holloway-raising-venture-capital-book/)

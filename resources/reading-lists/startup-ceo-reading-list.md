@@ -29,6 +29,9 @@
 ### Management
 * [Thinly Disguised Contempt](https://feld.com/archives/2004/05/tdc-thinly-disguised-contempt.html)
 
+### Strategy
+- [A Taxonomy of Moats](http://reactionwheel.net/2019/09/a-taxonomy-of-moats.html)
+
 
 ### Product-Market Fit
 * [How Superhuman Built an Engine to Find Product/Market Fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)

@@ -31,6 +31,7 @@
 
 ### Strategy
 - [A Taxonomy of Moats](http://reactionwheel.net/2019/09/a-taxonomy-of-moats.html)
+- [The Network Effects Manual: 14 Different Network Effects (and counting)](https://www.nfx.com/post/network-effects-manual)
 
 
 ### Product-Market Fit

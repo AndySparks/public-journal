@@ -27,7 +27,8 @@
 * Growing Pains
 
 ### Management
-* [Thinly Disguised Contempt](https://feld.com/archives/2004/05/tdc-thinly-disguised-contempt.html)
+- [Thinly Disguised Contempt](https://feld.com/archives/2004/05/tdc-thinly-disguised-contempt.html)
+- [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)
 
 ### Strategy
 - [A Taxonomy of Moats](http://reactionwheel.net/2019/09/a-taxonomy-of-moats.html)

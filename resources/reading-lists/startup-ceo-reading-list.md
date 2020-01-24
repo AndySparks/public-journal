@@ -62,3 +62,4 @@
 ### Product
 - [Learn Product](http://learnproduct.com/)
 - [Open Product Management](https://github.com/ProductHired/open-product-management)
+- [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b)

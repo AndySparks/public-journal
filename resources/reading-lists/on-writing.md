@@ -22,5 +22,9 @@
 
 > “The best way to become acquainted with a subject is to write a book about it.” —Benjamin Disraeli
 
+> “If you don’t have the time to read, you don’t have the time or the tools to write.” —Stephen King
+
+Kawasaki, Guy. APE: Author, Publisher, Entrepreneur—How to Publish a Book . Nononina Press. Kindle Edition. 
+
 ## Tools
 - My favorite tool to write with is [iA Writer](https://ia.net/writer)

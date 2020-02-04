@@ -21,11 +21,11 @@
 
 > "The road to hell is paved with adverbs....they're like dandelions...one in your lawn, it looks pretty and unique...if you fail to root it out...your lawn is totally, completely, and profligately covered with dandelions." —Stephen King
 
-> “The best way to become acquainted with a subject is to write a book about it.” —Benjamin Disraeli
+> “The best way to become acquainted with a subject is to write a book about it.” —Benjamin Disraeli[^1]
 
-> “If you don’t have the time to read, you don’t have the time or the tools to write.” —Stephen King
+> “If you don’t have the time to read, you don’t have the time or the tools to write.” —Stephen King[^1]
 
-Kawasaki, Guy. APE: Author, Publisher, Entrepreneur—How to Publish a Book . Nononina Press. Kindle Edition. 
+[^1]:  Kawasaki, Guy. APE: Author, Publisher, Entrepreneur—How to Publish a Book . Nononina Press. Kindle Edition. 
 
 ## Tools
 - My favorite tool to write with is [iA Writer](https://ia.net/writer)

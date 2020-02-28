@@ -60,6 +60,7 @@
 * [The Science of Speaking is the Art of Being Heard](https://firstround.com/review/the-science-of-speaking-is-the-art-of-being-heard/)
 
 ### Product
+- 🔥 [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)
 - [Learn Product](http://learnproduct.com/)
 - [Open Product Management](https://github.com/ProductHired/open-product-management)
 - [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b)

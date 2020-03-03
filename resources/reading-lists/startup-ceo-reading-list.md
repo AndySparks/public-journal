@@ -29,6 +29,7 @@
 ### Management
 - [Thinly Disguised Contempt](https://feld.com/archives/2004/05/tdc-thinly-disguised-contempt.html)
 - [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)
+- [A Simple Tool for Managing an Executive Staff as a First-Time CEO](https://medium.com/unusual-ventures/a-simple-tool-for-managing-an-executive-staff-as-a-first-time-ceo-a32167561950)
 
 ### Strategy
 - [A Taxonomy of Moats](http://reactionwheel.net/2019/09/a-taxonomy-of-moats.html)

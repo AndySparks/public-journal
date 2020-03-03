@@ -34,6 +34,7 @@
 ### Strategy
 - [A Taxonomy of Moats](http://reactionwheel.net/2019/09/a-taxonomy-of-moats.html)
 - [The Network Effects Manual: 14 Different Network Effects (and counting)](https://www.nfx.com/post/network-effects-manual)
+- [Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
 
 
 ### Product-Market Fit

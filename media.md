@@ -1,6 +1,7 @@
 # Media
 
 ## Podcasts
+- [Making Mischief, Navigating Self-Doubt & Cultivating Leadership with Andy Sparks](https://castro.fm/episode/Eo5lSC)
 - [20: The Rationalist (The Passion People Podcast)](https://open.spotify.com/episode/09AhANikVnI8uqJcswTWsw?si=8vZ0OuFkRJyFZKaS2lPQDQ)
 - [056 - Andy Sparks (Holloway) On The Future of Books](https://www.breaker.audio/forward-thinking-founders/e/54455987)
 - [Tech Talks Daily #1013: How Holloway Is Rewriting Publishing With Its Startup Guides](https://techblogwriter.co.uk/holloway/)

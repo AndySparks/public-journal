@@ -1,7 +1,8 @@
 # On Design
 
-- [Other Web](https://kedzich.com/)
-- [How to hire designers](https://medium.com/intercom-inside/how-to-hire-designers-960663e3a3e6)
+## Design Standards
+- [Laws of UX](https://lawsofux.com/)
+- [UX Myths](https://uxmyths.com/)
 - [don’t get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 
 ## Books
@@ -16,9 +17,12 @@
 
 ## Hiring for Design
 - [The UX Designer Hiring Guide, by Semplice](https://www.semplice.com/the-ux-designer-hiring-guide)
+- [How to hire designers](https://medium.com/intercom-inside/how-to-hire-designers-960663e3a3e6)
 
 
 ## Resources
 - [Streamline Icons](https://streamlineicons.com/)
 - [Semplice Supply](https://www.semplice.com/supply)
 - [Design Files: Professional resources for digital designers](https://files.design/)
+- [Other Web](https://kedzich.com/)
+- [Butterick's Practical Typography](https://practicaltypography.com/)

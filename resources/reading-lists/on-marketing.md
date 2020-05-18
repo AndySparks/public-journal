@@ -16,6 +16,10 @@
 - [You don't need a "Growth Hacker," just a data-driven marketer](https://www.clickz.com/you-dont-need-a-growth-hacker-just-a-data-driven-marketer/109610/)
 - [A Post Mortem on Growth Hacking](https://medium.com/@ibringtraffic/a-post-mortem-on-growth-hacking-f2824ec6d7ec)
 
+## Brand
+- [*The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes*](https://www.amazon.com/gp/product/0071364153/)
+- [*Brandjam: Humanizing Brands Through Emotional Design*](https://www.amazon.com/Brandjam-Humanizing-Through-Emotional-Design/dp/1581154682)
+
 ## Storytelling
 - [How to Tell Your Story: A Simple Framework for Startups](https://www.slideshare.net/ommalik/how-to-tell-your-story-a-simple-framework-for-startups-188319803/)
 
@@ -37,7 +41,7 @@
 - [*The Psychology of Price*](https://www.amazon.com/Psychology-Price-increase-customer-satisfaction-ebook/dp/B00AFT2DO2) by Leigh Caldwell
 - [*Monetizing Innovation: How Smart Companies Design the Product Around the Price*](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1536631078) by Madhavan Ramanujam
 - [*The Anatomy of SaaS Pricing Strategy*](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf) by Price Intelligently
-- [*The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes*](https://www.amazon.com/gp/product/0071364153/)
+
 
 #### Articles
 

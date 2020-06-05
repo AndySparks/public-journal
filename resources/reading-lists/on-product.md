@@ -8,3 +8,4 @@
 - [Part 4: Product Development for Innovation](https://andyjohns.co/part-4-product-development-for-innovation/)
 
 ## Benchmarks
+[2019 Mixpanel Product Benchmarks Report](https://www.dropbox.com/s/nzuihiuqlnitd64/2019-Mixpanel-Product-Benchmarks-Report.pdf)

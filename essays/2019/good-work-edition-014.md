@@ -33,8 +33,8 @@ Good Work is the second newsletter I’ve been a part of creating. Before this, 
 
 I’m increasingly becoming more negative toward Facebook and Google. [🎧This podcast](https://samharris.org/podcasts/152-trouble-facebook/) with Sam Harris and Roger McNamee made me begin changing my behavior. This week, two pieces stood out to me on the subject, and I think it’s important all of us think about the work we do and how we, directly and indirectly, support companies that market their products to us as if they’re here to help but then turn around and sell our data without our permission.
 
-- “[What Apple, Facebook and Google each mean by "privacy"](https://www.axios.com/what-apple-facebook-and-google-each-mean-by-privacy-e2d82692-49bf-4a73-971c-b0bf62d3b2b9.html),” by [Scott Rosenberg](https://mobile.twitter.com/scottros)
-- “[Google’s New Privacy Features Put the Responsibility on Users](https://www.wired.com/story/googles-new-privacy-features-put-the-responsibility-on-users/), ” by [Lauren Goode](https://mobile.twitter.com/LaurenGoode)
+- [What Apple, Facebook and Google each mean by "privacy"](https://www.axios.com/what-apple-facebook-and-google-each-mean-by-privacy-e2d82692-49bf-4a73-971c-b0bf62d3b2b9.html), by [Scott Rosenberg](https://mobile.twitter.com/scottros)
+- [Google’s New Privacy Features Put the Responsibility on Users](https://www.wired.com/story/googles-new-privacy-features-put-the-responsibility-on-users/), by [Lauren Goode](https://mobile.twitter.com/LaurenGoode)
 
 That’s Good Work for this week. Looking forward to what’s next.
 

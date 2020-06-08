@@ -3,7 +3,7 @@
 ### Knowledge-based tools
 
 > “I drink and I know things.”
-—Tyrion Lannister[^1]
+—Tyrion Lannister [^1]
 
 Tyrion tests theory with practice as he faces a series of dramatic and complicated
 challenges each season.
@@ -116,12 +116,6 @@ Looking forward to what’s next.
 See you next week.
 
 Andy and the Holloway Team
-
-*Good Work is written and curated by [Andy Sparks](https://twitter.com/SparksZilla),
-[Courtney Nash](https://twitter.com/courtneynash),
-[Dmitriy Kharchenko](https://twitter.com/dmitriy_js),
-[Hope Hackett](https://twitter.com/Hopeopolis), [Joshua Levy](https://twitter.com/ojoshe), and
-[Rachel Jepsen](https://twitter.com/DidYouWriteThat).*
 
 [^1]: “Home.” *Game of Thrones*, S6E2. HBO. Written by Dave Hill, directed by Jeremy Podeswa,
 2016\.

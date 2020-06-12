@@ -1,4 +1,4 @@
-# Product
+# Product Management
 
 - 🔥 [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)
 - [Learn Product](http://learnproduct.com/)

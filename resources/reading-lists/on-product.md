@@ -8,6 +8,7 @@
 - [Part 4: Product Development for Innovation](https://andyjohns.co/part-4-product-development-for-innovation/)
 - [How To Get Into Product Management (And Thrive) ✨](https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf)
 - [A Three-Step Framework For Solving Problems 👌](https://uxdesign.cc/how-to-solve-problems-6bf14222e424)
+- [Shreyas Doshi on Good PMs vs. Great PMs](https://twitter.com/shreyas/status/1249039638829793280?s=20)
 
 ## Benchmarks
 [2019 Mixpanel Product Benchmarks Report](https://www.dropbox.com/s/nzuihiuqlnitd64/2019-Mixpanel-Product-Benchmarks-Report.pdf)

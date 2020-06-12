@@ -1,6 +1,7 @@
 # On Writing
 
 - 🔥 [The Pyramid Principle: Logic in Writing and Thinking](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516)
+- [How to Write Email with Military Precision](https://hbr.org/2016/11/how-to-write-email-with-military-precision)
 - [Draft No. 4: On the Writing Process](https://www.amazon.com/Draft-No-4-Writing-Process/dp/0374142742)
 - [The Elements of Eloquence: Secrets of the Perfect Turn of Phrase](https://www.amazon.com/Elements-Eloquence-Secrets-Perfect-Phrase/dp/042527618X)
 - [Madman, Architect, Carpenter, Judge: Roles and the Writing Process](http://www.ut-ie.com/b/b_flowers.html)

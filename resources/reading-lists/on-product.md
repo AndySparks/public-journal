@@ -7,6 +7,7 @@
 - [What Makes for a Good Product Manager?](https://andyjohns.co/what-makes-for-a-good-product-manager/)
 - [Part 4: Product Development for Innovation](https://andyjohns.co/part-4-product-development-for-innovation/)
 - [How To Get Into Product Management (And Thrive) ✨](https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf)
+- [A Three-Step Framework For Solving Problems 👌](https://uxdesign.cc/how-to-solve-problems-6bf14222e424)
 
 ## Benchmarks
 [2019 Mixpanel Product Benchmarks Report](https://www.dropbox.com/s/nzuihiuqlnitd64/2019-Mixpanel-Product-Benchmarks-Report.pdf)

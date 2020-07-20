@@ -6,5 +6,6 @@
 - [1,500 People Give All the Relationship Advice You'll Ever Need](https://markmanson.net/relationship-advice), Mark Manson
 - [Getting the Love You Want](https://www.amazon.com/Getting-Love-You-Want-Anniversary/dp/0805087001), Harville Hendrix
 - [Twitter thread by Sol Orwell](https://twitter.com/sol_orwell/status/1206941391999385600?s=12)
+- [100 Couples Share Their Secrets to a Successful Relationship](https://theprofile.substack.com/p/100-couples-share-their-secrets-to)
 
 

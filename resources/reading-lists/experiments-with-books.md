@@ -9,3 +9,7 @@
   - [The Future of Text](https://futuretextpublishing.com/)
     - [Timeful Texts](https://numinous.productions/timeful/)
   - [Why Books Don't Work](https://andymatuschak.org/books/)
+- [Derek Sivers 250k](https://sive.rs/250k)
+- [Stripe Press](https://press.stripe.com/)
+- [Wardley Maps](https://medium.com/wardleymaps), a book written in public on Medium
+- [The Big Disruption](https://medium.com/s/the-big-disruption/the-big-disruption-36fbed0268cf), a book on Medium

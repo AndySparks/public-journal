@@ -13,3 +13,4 @@
 - [Stripe Press](https://press.stripe.com/)
 - [Wardley Maps](https://medium.com/wardleymaps), a book written in public on Medium
 - [The Big Disruption](https://medium.com/s/the-big-disruption/the-big-disruption-36fbed0268cf), a book on Medium
+- [Kissa by Kissa](https://shop.specialprojects.jp/products/kissa-by-kissa?variant=34630892683419)

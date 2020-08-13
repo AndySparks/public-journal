@@ -3,7 +3,7 @@
 *🎶
 [Dusk](https://open.spotify.com/track/0AnILs0ZtjlTCJ636WooPX?si=ow9o66wDQkCpITz8HtqW_w) by Ford*
 
-🅀 “No editor can ever afford the rejection of a good thing, and no author the publication of a bad one. The only difficulty lies in drawing the line.” —Thomas Wentworth Higginson[^1]
+> “No editor can ever afford the rejection of a good thing, and no author the publication of a bad one. The only difficulty lies in drawing the line.” —Thomas Wentworth Higginson[^1]
 
 Some of the most rewarding experiences in life are sitting right in front of us, but they're hidden because no one bothered to tell us they exist.
 

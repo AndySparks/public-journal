@@ -3,7 +3,7 @@
 *🎶 [Reflect](https://open.spotify.com/track/1bqMJbV7XeJC6AKUItYnvc?si=YlSRAvqCRNmwLMZg_S0nDQ) by
 OVERWERK*
 
-🅀 “The longer you live, the more you fail.
+> “The longer you live, the more you fail.
 Failure is the mark of a life well lived.”
 —Brandon Sanderson, Oathbringer[^1]
 

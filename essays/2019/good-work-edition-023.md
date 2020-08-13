@@ -4,7 +4,7 @@
 [Where I’m From](https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9?si=KbKFjBp0S6mnYLIahbxidQ) by
 Digable Planets*
 
-🅀 “…you can’t think new thoughts in old words.”
+> “…you can’t think new thoughts in old words.”
 —Ted Nelson[^1]
 
 Teamwork is old like that brand of perfume you only smell on people over seventy.

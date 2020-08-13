@@ -3,7 +3,7 @@
 *🎶[Happiness is Not a Place](https://open.spotify.com/track/63iSkVYY8Qv8pMrIRyT1ES?si=1cX6vowyRviLUbs_81B7WA) by
 The Wind and The Wave*
 
-🅀 “Rockefeller loved Flagler’s dictum that a friendship founded on business was superior
+> “Rockefeller loved Flagler’s dictum that a friendship founded on business was superior
 to a business founded on friendship, and for several decades they worked together in an
 almost seamless fashion.”
 —Ron Chernow, Titan[^1]

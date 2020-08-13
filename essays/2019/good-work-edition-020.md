@@ -1,8 +1,8 @@
+# Good Work—Edition Nº 20
+
 *🎶
 [The Belt](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA?si=69Sf7G9mTRGdOSPXKxn78A) by
 In the Valley Below*
-
-![Our brave hero prepares to face the world of work.](https://assets.holloway.com/editorial/images/gw-ballworld.png)
 
 🅀 “If you really want to know what’s happening here and now, you’ve got to use your own
 eyes and your own judgment.”

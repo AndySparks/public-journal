@@ -3,7 +3,7 @@
 *🎶[When You’re Ready](https://open.spotify.com/track/70PV0oeGhknr1ygjwt40KO?si=2rXUx455TUyy-E7q7xt8xg) by
 Tadashi*
 
-🅀 “If life were climbing a mountain in order to reach the top, then the greater part of
+> “If life were climbing a mountain in order to reach the top, then the greater part of
 life would end up being “en route.”
 —Ichiro Kishimi, Fumitake Koga[^1]
 

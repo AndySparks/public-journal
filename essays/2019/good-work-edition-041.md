@@ -4,7 +4,7 @@
 [Another New World](https://open.spotify.com/track/2OWfdex8Sx9e6RqUeFfUKW?si=kum-gpZnRTC-Ba1RC_Uk6Q) by
 Punch Brothers*
 
-🅀 “Out of danger and restless insecurity comes the force that pushes mankind to newer and
+> “Out of danger and restless insecurity comes the force that pushes mankind to newer and
 loftier conquests.”
 —Isaac Asimov, The End of Eternity[^1]
 

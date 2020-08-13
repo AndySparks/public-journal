@@ -4,7 +4,7 @@
 [The Belt](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA?si=69Sf7G9mTRGdOSPXKxn78A) by
 In the Valley Below*
 
-🅀 “If you really want to know what’s happening here and now, you’ve got to use your own
+> “If you really want to know what’s happening here and now, you’ve got to use your own
 eyes and your own judgment.”
 —Haruki Murakami[^1]
 

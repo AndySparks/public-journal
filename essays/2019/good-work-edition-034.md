@@ -3,7 +3,7 @@
 *🎶[II. Mrs. Dalloway: In The Garden](https://open.spotify.com/track/1x9mP6x7YvKeduQmP3v045?si=U8iJU9lGTXuOEivkna_KLw),
 by Max Richter*
 
-🅀 “There’s nothing intrinsic about the manual trades when it comes to generating this
+> “There’s nothing intrinsic about the manual trades when it comes to generating this
 particular source of meaning.
 Any pursuit—be it physical or cognitive—that supports high levels of skill can also
 generate a sense of sacredness.”

@@ -4,7 +4,7 @@
 [Fruits of My Labor](https://open.spotify.com/track/31nItlXwgCCFpttS50Rbxf?si=tcUuhIe3TqCi7b0yYdrncA) by
 Lucinda Williams*
 
-🅀 “No one expected me.
+> “No one expected me.
 Everything awaited me.”
 —Patti Smith, Just Kids[^1]
 

@@ -1,6 +1,6 @@
 # Good Work—Edition Nº 22
 
-🅀 *"Ladies and gentlemen, either you are closing your eyes to a situation you do not wish to acknowledge, or you are not aware of the caliber of disaster indicated by the presence of a pool table in your community!"* —Harold Hill[^1]
+> *"Ladies and gentlemen, either you are closing your eyes to a situation you do not wish to acknowledge, or you are not aware of the caliber of disaster indicated by the presence of a pool table in your community!"* —Harold Hill[^1]
 
 Growing up, we had a sandbox, where I loved playing with [Micro Machines](https://www.youtube.com/watch?v=lLfnAq1SrpM). I’d slam them together and have all kinds of fun, especially when we introduced a hose into the equation. So, when my Dad decided to stop by Toys“R”Us (RIP) on the way back from Home Depot (I grew up in the suburbs, can you tell?), I assumed we were going to acquire Micro Machines. I looked at my old man with admiration—his taste in toys, impeccable. As we arrived in the aisle stocked with possessions oh so coveted, I pointed at the one I wanted, and Dad said, “Tell me why I should buy this for you.” Having skipped sales class in the second grade, I was woefully unequipped. As we left the store empty handed that day—my father’s icy grin at my back—I was determined to become convincing.
 

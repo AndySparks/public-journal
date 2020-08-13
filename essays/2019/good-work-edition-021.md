@@ -4,7 +4,7 @@
 [ I Need a Dollar](https://open.spotify.com/track/19KlLuxA7AxvQpoQYx7zhG?si=6c7O7-0EReCkj17wrYkk1A) by
 Aloe Blacc*
 
-🅀 "The city was then the great maw of American capitalism.
+> "The city was then the great maw of American capitalism.
 That is to say, it took resources and raw materials from everywhere and converted them
 into money at an unprecedented rate."
 —Christopher Hitchens[^1]

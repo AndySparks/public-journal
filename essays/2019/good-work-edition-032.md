@@ -4,7 +4,7 @@
 [Songlines](https://open.spotify.com/track/7CF9D6br57ovVM7bo6B1jB?si=eEd08PclSdORcEKh4HkXWw)
 by The Derek Trucks Band*
 
-🅀 “When complaints are freely heard, deeply considered, and speedily reformed, then is
+> “When complaints are freely heard, deeply considered, and speedily reformed, then is
 the utmost bound of civil liberty obtained that wise men look for.”
 —Milton, Aeropagitica[^1]
 

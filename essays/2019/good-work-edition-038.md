@@ -4,7 +4,7 @@
 [L’Arena - From “Il Mercenario”](https://open.spotify.com/track/1x6qO9TaYwCeUweMyWAQst?si=VJ6fTd5MRvCM-F6wspQcgQ),
 by Ennio Morricone*
 
-🅀 “It takes little talent to see clearly what lies under one’s nose, a good deal of it to
+> “It takes little talent to see clearly what lies under one’s nose, a good deal of it to
 know in which direction to point that organ.”
 —W.H. Auden[^1]
 

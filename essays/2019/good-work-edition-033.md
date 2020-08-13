@@ -3,7 +3,7 @@
 *🎶 [Furr](https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL?si=JvhwVl0NTvOhZZh81ZAD2w),
 by Blitzen Trapper*
 
-🅀 “Watching Tom manage, it seemed to me that he applied a simple three-step algorithm to
+> “Watching Tom manage, it seemed to me that he applied a simple three-step algorithm to
 every problem:
 1\. Who owns the problem?
 2\. Do I trust them?

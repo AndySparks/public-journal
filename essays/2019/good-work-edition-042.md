@@ -4,7 +4,7 @@
 [Silver Lining](https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl?si=L-Cv4XCETVy7ycZVXoV9Lw) by
 Mt. Joy*
 
-🅀 “The best journeys answer questions that, in the beginning, you didn’t even think to
+> “The best journeys answer questions that, in the beginning, you didn’t even think to
 ask.” —Unknown
 
 Over the last year, I’ve spent a lot of time thinking about how we get the word out about

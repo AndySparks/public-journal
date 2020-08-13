@@ -4,7 +4,7 @@
 [It’s So Easy (When You Know What You’re Doing)](https://open.spotify.com/track/3uAtmOSImRhG0x1GSyvSLi?si=R8RLgaU1TzyLPoJ6wz7-jw),
 by Ted Lucas*
 
-🅀 “And indeed, that IS the question:
+> “And indeed, that IS the question:
 whether to float with the tide, or to swim for a goal.
 It is a choice we must all make consciously or unconsciously at one time in our lives.
 So few people understand this!”

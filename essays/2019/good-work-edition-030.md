@@ -3,7 +3,7 @@
 *🎶 [Ryland](https://open.spotify.com/track/5ESqKJ1kmGJMd2uaVW6YEM?si=Y3Y8i033TxaHphg-dAsktQ) by
 Julian Lage*
 
-🅀 “Good work finds the way between pride and despair.
+> “Good work finds the way between pride and despair.
 / It graces with health.
 It heals with grace.
 It preserves the given so that it remains a gift.

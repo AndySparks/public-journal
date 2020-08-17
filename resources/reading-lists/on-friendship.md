@@ -6,6 +6,7 @@
 - [David Whyte on the True Meaning of Friendship, Love, and Heartbreak](https://www.brainpickings.org/2015/04/29/david-whyte-consolations-words)
 - [We Should Get Together](https://bookshop.org/books/we-should-get-together-the-secret-to-cultivating-better-friendships/9781734379716)
 - [The Nicomachean Ethics](https://www.amazon.com/Nicomachean-Ethics-Penguin-Classics/dp/0140449493/)
+- [Big Friendship: How We Keep Each Other Close](https://bookshop.org/books/big-friendship-how-we-keep-each-other-close/9781982111908)
 
 
 ## Quotes

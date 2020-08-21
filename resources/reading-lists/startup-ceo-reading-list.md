@@ -1,6 +1,8 @@
 # Startup CEO Reading List
 *Inspired by HBS Professor Tom Eisenmann's "[Topic Reading Lists](http://platformsandnetworks.blogspot.com)"*
 
+🛑 STOP BEFORE CONTINUING and read [The Founder's Dilemmas](https://www.amazon.com/Founders-Dilemmas-Anticipating-Foundation-Entrepreneurship/dp/0691158304) by Noam Wasserman.
+
 ## General Knowledge
 * 🔥 [How to Operate](https://genius.com/Keith-rabois-lecture-14-how-to-operate-annotated) by Keith Rabois
 * [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#heading=h.pdmqf3646hgt) by Matt Mochary

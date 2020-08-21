@@ -1,5 +1,7 @@
 # Questions for Co-Founders Considering Working Together
 
+🛑 STOP BEFORE CONTINUING and read [The Founder's Dilemmas](https://www.amazon.com/Founders-Dilemmas-Anticipating-Foundation-Entrepreneurship/dp/0691158304) by Noam Wasserman.
+
 When Josh Levy and I started Holloway, we used the following list of questions to determine whether we should work together. I believe the list of questions came from a blog post, but I don't know where. In an effort to find the post, I googled several questions and found partial text matches in both of the posts linked to in [further reading](#further-reading).
 
 ## Time and Financial Commitments

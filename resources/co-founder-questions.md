@@ -36,5 +36,6 @@ When Josh Levy and I started Holloway, we used the following list of questions t
     4. For any cash we invest in the company, how is this treated? (e.g. debt? convertible debt? Does it buy a different class of shares?)
 
 ## Further Reading
-* [What questions should you ask a potential startup cofounder?](https://medium.com/@adjblog/what-questions-should-you-ask-a-potential-startup-cofounder-644cff322841)
-* [34 Questions to Ask a Potential Co-Founder](https://fi.co/insight/34-questions-to-ask-a-potential-co-founder)
+- [What questions should you ask a potential startup cofounder?](https://medium.com/@adjblog/what-questions-should-you-ask-a-potential-startup-cofounder-644cff322841)
+- [34 Questions to Ask a Potential Co-Founder](https://fi.co/insight/34-questions-to-ask-a-potential-co-founder)
+- [The Holloway Syllabus on Finding a Co-Founder](https://www.holloway.com/s/syllabus-finding-cofounder)

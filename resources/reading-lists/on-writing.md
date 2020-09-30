@@ -11,6 +11,7 @@
 - [Hiten Shah tweet on writing w/ tons of replies](https://twitter.com/hnshah/status/1156064424018317312?s=20)
 - [Write to Express, Not to Impress](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
 - [How to write a good blog post](https://om.co/2016/03/26/how-to-write-a-good-blog-post/)
+- [Balancing making the reader feel seen/heard and bravado](https://twitter.com/robinsloan/status/1311311530269405184?s=20)
 - [The Tim Ferriss Show Transcripts: Adam Grant — The Man Who Does Everything (#399)](https://tim.blog/2019/12/20/adam-grant-transcripts/)
   - **Tim Ferriss**: “I can’t have cheerleaders as editors, at least proofreaders. So I will send chapters typically to very specific people and I will force their hand a bit because they’re all intrinsically quite nice people. But I’ll ask them, this is where I think the wording of the questions is so important. But for me, I’ll ask them, “If you have to remove, say 20 percent of this chapter, which 20 percent would you remove? Gun to the head. You have to cut 20 percent.”
   - **Adam Grant**: Oh, I love that.

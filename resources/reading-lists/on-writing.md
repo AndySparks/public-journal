@@ -22,6 +22,15 @@
 ![image](https://user-images.githubusercontent.com/1100418/75267894-ab1c3c80-57ab-11ea-85a5-8146af64b38a.png)
 ![image](https://user-images.githubusercontent.com/1100418/75267940-ba02ef00-57ab-11ea-92a2-33113a8c2bc2.png)
 
+## Publishing a Book
+- [APE: Author, Publisher, Entrepreneur—How to Publish a Book](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-ebook/dp/B00AGFU5VS)
+- [The Essential Guide to Getting Your Book Published: How to Write It, Sell It, and Market It . . . Successfully](https://www.amazon.com/gp/product/B004FLL4IM)
+- Tiago Forte's Series on Landing a Book Deal
+  - [The Four Pathways of Modern Book Publishing](https://fortelabs.co/blog/the-four-pathways-of-modern-book-publishing/)
+  - [The Case for Traditional Publishing for Full-Stack Freelancers](https://fortelabs.co/blog/the-case-for-traditional-publishing-for-full-stack-freelancers/)
+  - [My 10-Step Book Publishing Strategy](https://fortelabs.co/blog/my-10-step-book-publishing-strategy/)
+
+
 ## Quotes
 > "Mark Twain once opined in his homey way: “The difference between the right word and the almost right word is the difference between lightning and the lightning bug.” He was droll but incomplete. During those long months of beginning my Cantos on Heaven’s Gate, I discovered that the difference between finding the right word as opposed to accepting the almost right word was the difference between being struck by lightning and merely watching a lightning display." —Dan Simmons, Hyperion (Hyperion Cantos, Book 1)
 

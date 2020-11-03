@@ -1,6 +1,7 @@
 # On Writing
 
 - 🔥 [The Pyramid Principle: Logic in Writing and Thinking](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516)
+- 🔥 [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.amazon.com/gp/product/0060891548/)
 - [How to Write Email with Military Precision](https://hbr.org/2016/11/how-to-write-email-with-military-precision)
 - [Draft No. 4: On the Writing Process](https://www.amazon.com/Draft-No-4-Writing-Process/dp/0374142742)
 - [The Elements of Eloquence: Secrets of the Perfect Turn of Phrase](https://www.amazon.com/Elements-Eloquence-Secrets-Perfect-Phrase/dp/042527618X)
@@ -17,7 +18,6 @@
   - **Adam Grant**: Oh, I love that.
   - **Tim Ferriss**: “What would you cut?” And then I also ask them, “If you could only save 10 percent or 20 percent,” depends on the length of the chapter, “what do you think I should absolutely keep in?” The rule that I have is I suppose more of a heuristic, it’s not a hard and fast rule, but something that I think about is to absolutely remove something requires a consensus of at least two people. So if two people say you should absolutely remove this, I take it very, very seriously. To keep something only requires a vote of one. So if five people respond with five different answers for “This is the 10 percent,” I would absolutely 100 percent keep in, then I do my best to keep all of that. That would be an example.”
 - [APE: Author, Publisher, Entrepreneur—How to Publish a Book](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-ebook/dp/B00AGFU5VS) by Guy Kawasaki
-- [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.amazon.com/gp/product/0060891548/)
 - [Jerry Neumann on business writing](https://twitter.com/ganeumann/status/1227044247964176384?s=20):
 ![image](https://user-images.githubusercontent.com/1100418/75267894-ab1c3c80-57ab-11ea-85a5-8146af64b38a.png)
 ![image](https://user-images.githubusercontent.com/1100418/75267940-ba02ef00-57ab-11ea-92a2-33113a8c2bc2.png)

@@ -1,0 +1,11 @@
+# Coaching
+
+## Books
+- [Building a Coaching Business, 2nd Edition](https://www.amazon.com/Building-Coaching-Business-Rogers-author/dp/0335227007)
+- All four books in Alan Sieler's ["Coaching to the Human Soul"](http://www.newfieldinstitute.com.au/html/books_chsI.html) series.
+  - Sometimes an affordable copy of these books shows up on Amazon, but otherwise you have to order them from Australia. They're like $60 / ea. and 100% worth it. 
+  
+  
+## Podcasts
+- [#43 Jennifer Garvey Berger: The Mental Habits of Effective Leaders](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000421932549)
+- [Voices of Esalen Linda and Charlie Bloom: Relationship Experts](https://overcast.fm/+GFoUq1P3s)

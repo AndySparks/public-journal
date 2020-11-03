@@ -29,6 +29,7 @@
   - [The Four Pathways of Modern Book Publishing](https://fortelabs.co/blog/the-four-pathways-of-modern-book-publishing/)
   - [The Case for Traditional Publishing for Full-Stack Freelancers](https://fortelabs.co/blog/the-case-for-traditional-publishing-for-full-stack-freelancers/)
   - [My 10-Step Book Publishing Strategy](https://fortelabs.co/blog/my-10-step-book-publishing-strategy/)
+- [Eliot Peper's Advice for Authors](https://www.eliotpeper.com/2020/01/advice-for-authors.html)
 
 
 ## Quotes

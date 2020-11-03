@@ -9,3 +9,4 @@
 ## Podcasts
 - [#43 Jennifer Garvey Berger: The Mental Habits of Effective Leaders](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000421932549)
 - [Voices of Esalen Linda and Charlie Bloom: Relationship Experts](https://overcast.fm/+GFoUq1P3s)
+- [#92 Lisa Feldman Barrett: Balancing the Brain Budget](https://fs.blog/knowledge-project/lisa-feldman-barrett/)

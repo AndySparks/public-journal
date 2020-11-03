@@ -8,6 +8,7 @@
 - [Offscreen Magazine](https://www.offscreenmag.com/)
 - [Gossamer](https://www.gossamer.co/)
 - https://www.laphamsquarterly.org/
+- https://parametric.press/issue-02/carbon-history/
 
 ## Newsletters
 - [Dense Discovery](https://www.densediscovery.com/)

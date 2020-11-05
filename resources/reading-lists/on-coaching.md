@@ -16,15 +16,22 @@
 - [The Master and His Emissary: The Divided Brain and the Making of the Western World Second Edition](https://www.amazon.com/Master-His-Emissary-Divided-Western-dp-0300245920/dp/0300245920/)
   
 ## Podcasts
+
+### Shows
+- [How's Work](https://gimletmedia.com/shows/hows-work)
+
+### Specific Episodes
 - [#43 Jennifer Garvey Berger: The Mental Habits of Effective Leaders](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000421932549)
 - [Voices of Esalen Linda and Charlie Bloom: Relationship Experts](https://overcast.fm/+GFoUq1P3s)
 - [#92 Lisa Feldman Barrett: Balancing the Brain Budget](https://fs.blog/knowledge-project/lisa-feldman-barrett/)
 
-
-## Misc
+## Misc Resources
 - Steve Schalfman's Twitter list: [Coach. Lead. Create.](https://twitter.com/i/lists/1281012677175922688)
 - [The Emotional Resilience Wiki](https://www.notion.so/Emotional-Resilience-Wiki-6f025a6bb6b7456b8f3b9925440352f6)
 
 ## Coaching Schools / Institutes / Programs
 - [Hudson Institute](https://hudsoninstitute.com/)
 - [New Ventures West](https://www.newventureswest.com/)
+
+## Coaching Organizations
+- [Reboot](https://www.reboot.io/)

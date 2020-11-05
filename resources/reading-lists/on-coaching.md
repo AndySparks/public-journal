@@ -18,6 +18,6 @@
 - Steve Schalfman's Twitter list: [Coach. Lead. Create.](https://twitter.com/i/lists/1281012677175922688)
 - [The Emotional Resilience Wiki](https://www.notion.so/Emotional-Resilience-Wiki-6f025a6bb6b7456b8f3b9925440352f6)
 
-## Coaching Schools / Instututes / Programs
+## Coaching Schools / Institutes / Programs
 - [Hudson Institute](https://hudsoninstitute.com/)
 - [New Ventures West](https://www.newventureswest.com/)

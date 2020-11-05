@@ -8,10 +8,12 @@
   - Sometimes an affordable copy of these books shows up on Amazon, but otherwise you have to order them from Australia. They're like $60 / ea. and 100% worth it. 
   
 ### Expanded Curriculum
-- [The Neurobiology of "We": How Relationships, the Mind, and the Brain Interact to Shape Who We Are](https://www.amazon.com/Neurobiology-We-Relationships-Interact-Learning/dp/159179949X)
 - [Crossing the Unknown Sea: Work as a Pilgrimage of Identity](https://www.amazon.com/Crossing-Sea-Work-Pilgrimage-Identity/dp/1573229148)
 - [The Art of Possibility: Transforming Professional and Personal Life](https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104)
-  
+
+### Coaching Related Neuroscience
+- [The Neurobiology of "We": How Relationships, the Mind, and the Brain Interact to Shape Who We Are](https://www.amazon.com/Neurobiology-We-Relationships-Interact-Learning/dp/159179949X)
+- [The Master and His Emissary: The Divided Brain and the Making of the Western World Second Edition](https://www.amazon.com/Master-His-Emissary-Divided-Western-dp-0300245920/dp/0300245920/)
   
 ## Podcasts
 - [#43 Jennifer Garvey Berger: The Mental Habits of Effective Leaders](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000421932549)

@@ -5,6 +5,7 @@
 - All four books in Alan Sieler's ["Coaching to the Human Soul"](http://www.newfieldinstitute.com.au/html/books_chsI.html) series.
   - Sometimes an affordable copy of these books shows up on Amazon, but otherwise you have to order them from Australia. They're like $60 / ea. and 100% worth it. 
 - [The Neurobiology of "We": How Relationships, the Mind, and the Brain Interact to Shape Who We Are](https://www.amazon.com/Neurobiology-We-Relationships-Interact-Learning/dp/159179949X)
+- [Crossing the Unknown Sea: Work as a Pilgrimage of Identity](https://www.amazon.com/Crossing-Sea-Work-Pilgrimage-Identity/dp/1573229148)
   
   
 ## Podcasts
@@ -16,3 +17,7 @@
 ## Misc
 - Steve Schalfman's Twitter list: [Coach. Lead. Create.](https://twitter.com/i/lists/1281012677175922688)
 - [The Emotional Resilience Wiki](https://www.notion.so/Emotional-Resilience-Wiki-6f025a6bb6b7456b8f3b9925440352f6)
+
+## Coaching Schools / Instututes / Programs
+- [Hudson Institute](https://hudsoninstitute.com/)
+- [New Ventures West](https://www.newventureswest.com/)

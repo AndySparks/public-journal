@@ -11,7 +11,7 @@
 ### Expanded Curriculum
 - [Crossing the Unknown Sea: Work as a Pilgrimage of Identity](https://www.amazon.com/Crossing-Sea-Work-Pilgrimage-Identity/dp/1573229148)
 - [The Art of Possibility: Transforming Professional and Personal Life](https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104) -- Whatever you do, LISTEN TO THE AUDIOBOOK VERSION. The two authors narrate it, and it is absolutely lovely. Seth Godin says he listens to part of this book every month. 
-- [The Artist's Way](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252) -- read this book over a ~10 week period. If you only do one of the exercises in this book, I recommend doing "morning pages."
+- [The Artist's Way](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252) -- read this book over a ~10 week period. If you only do one of the exercises in this book, I recommend doing "morning pages." My second favorite exercise from the book is the "artist's date," where you take yourself on a date 1x a week!
 
 ### Coaching Related Neuroscience
 - [The Neurobiology of "We": How Relationships, the Mind, and the Brain Interact to Shape Who We Are](https://www.amazon.com/Neurobiology-We-Relationships-Interact-Learning/dp/159179949X)

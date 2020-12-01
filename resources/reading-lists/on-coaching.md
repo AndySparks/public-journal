@@ -40,9 +40,12 @@
 - [Hudson Institute](https://hudsoninstitute.com/)
 - [New Ventures West](https://www.newventureswest.com/)
 - [The Institute of Coaching](https://www.instituteofcoaching.org): from McLean, an affiliate of Harvard Medical School. The IOC is all about sharing evidence based research related to the field of coaching.
+- [NLP Marin](https://www.nlpmarin.com)
+- [Center for Right Relationships ("CRR")](https://www.crrglobal.com)
 
 ## Coaching Organizations
 - [Reboot](https://www.reboot.io/)
+- [Propel Performance Group](https://www.propelpg.com)
 
 ## Couples Literature
 

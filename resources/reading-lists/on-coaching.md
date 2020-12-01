@@ -13,11 +13,13 @@
 - [Crossing the Unknown Sea: Work as a Pilgrimage of Identity](https://www.amazon.com/Crossing-Sea-Work-Pilgrimage-Identity/dp/1573229148)
 - [The Art of Possibility: Transforming Professional and Personal Life](https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104) -- Whatever you do, LISTEN TO THE AUDIOBOOK VERSION. The two authors narrate it, and it is absolutely lovely. Seth Godin says he listens to part of this book every month. 
 - [The Artist's Way](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252) -- read this book over a ~10 week period. If you only do one of the exercises in this book, I recommend doing "morning pages." My second favorite exercise from the book is the "artist's date," where you take yourself on a date 1x a week!
-- [The Little Book of Humanism](https://www.amazon.com/Little-Book-Humanism-Universal-lessons-ebook/dp/B07YNGD4H7)
 
 ### Coaching Related Neuroscience
 - [The Neurobiology of "We": How Relationships, the Mind, and the Brain Interact to Shape Who We Are](https://www.amazon.com/Neurobiology-We-Relationships-Interact-Learning/dp/159179949X)
 - [The Master and His Emissary: The Divided Brain and the Making of the Western World Second Edition](https://www.amazon.com/Master-His-Emissary-Divided-Western-dp-0300245920/dp/0300245920/)
+
+### Not Exactly Coaching But Related
+- [The Little Book of Humanism](https://www.amazon.com/Little-Book-Humanism-Universal-lessons-ebook/dp/B07YNGD4H7)
   
 ## Podcasts
 
@@ -36,6 +38,14 @@
 ## Coaching Schools / Institutes / Programs
 - [Hudson Institute](https://hudsoninstitute.com/)
 - [New Ventures West](https://www.newventureswest.com/)
+- [The Institute of Coaching](https://www.instituteofcoaching.org): from McLean, an affiliate of Harvard Medical School. The IOC is all about sharing evidence based research related to the field of coaching.
 
 ## Coaching Organizations
 - [Reboot](https://www.reboot.io/)
+
+## Couples Literature
+
+### John Gottman et al.
+- [Eight Dates: Essential Conversations for a Lifetime of Love](https://www.amazon.com/Eight-Dates-Essential-Conversations-Lifetime/dp/1523504463/)
+- [The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)
+  - [The Four Horsemen: The Antidotes](https://www.gottman.com/blog/the-four-horsemen-the-antidotes/)

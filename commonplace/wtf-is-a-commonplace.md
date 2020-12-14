@@ -8,4 +8,6 @@ In [2017](https://github.com/AndySparks/captains-log/blob/master/commonplace/201
 
 In [2018](https://github.com/AndySparks/captains-log/blob/master/commonplace/2018.md), I added a huge end-of-year reflection. I read every single journal entry from the year (74 with about 750 words each), and I took notes on the themes. It turned out I was writing about ~15 things all year. I wrote an essay on one of them, [confidence](https://github.com/AndySparks/captains-log/blob/master/essays/2019/confidence.md). I added new sections for the new habits I developed, playlists I found and made, and the apps I found myself using a lot. 
 
-In [2019](https://github.com/AndySparks/captains-log/blob/master/commonplace/2019.md), I've been less active, but I'm sure I'll find a weekend to get in and log all the amazing things I've found and the ideas I've been wrestling with.
+In [2019](https://github.com/AndySparks/captains-log/blob/master/commonplace/2019.md), I added quite a few new sections. It was a big year, as Kate and I began to date. We shipped our first books at Holloway, I read a _ton_ of fiction, and I finished my first book. 
+
+In [2020](https://github.com/AndySparks/captains-log/blob/master/commonplace/2020.md) … well, 2020 has been unusual. COVID-19 hit, I left Holloway, wildfires blanketed San Francisco with smoke for much of the year, I began a new career as a coach, and much more.

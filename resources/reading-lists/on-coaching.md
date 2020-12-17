@@ -1,4 +1,4 @@
-# Coaching
+# Coaching Reading List
 
 ## Books
 

@@ -6,6 +6,7 @@
 - [Building a Coaching Business, 2nd Edition](https://www.amazon.com/Building-Coaching-Business-Rogers-author/dp/0335227007)
 - All four books in Alan Sieler's ["Coaching to the Human Soul"](http://www.newfieldinstitute.com.au/html/books_chsI.html) series.
   - Sometimes an affordable copy of these books shows up on Amazon, but otherwise you have to order them from Australia. They're like $60 / ea. and 100% worth it.
+- [The Completely Revised Handbook of Coaching: A Developmental Approach](https://www.amazon.com/Completely-Revised-Handbook-Coaching-Developmental/dp/047090674X)
 - [Self as Coach, Self as Leader: Developing the Best in You to Develop the Best in Others](https://www.amazon.com/Self-Coach-Leader-Developing-Develop/dp/1119562554/)
 - [Coaching with the Brain in Mind: Foundations for Practice](https://www.amazon.com/Coaching-Brain-Mind-Foundations-Practice-ebook-dp-B002MZUQCI/dp/B002MZUQCI)
 - [Transitions: Making Sense of Life's Changes](https://www.amazon.com/Transitions-Making-Sense-Lifes-Changes-dp-0738285404/dp/0738285404/ref=dp_ob_title_bk)

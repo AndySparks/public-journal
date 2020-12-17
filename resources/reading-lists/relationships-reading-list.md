@@ -7,6 +7,11 @@
 - [1,500 People Give All the Relationship Advice You'll Ever Need](https://markmanson.net/relationship-advice), Mark Manson
 - [Twitter thread by Sol Orwell](https://twitter.com/sol_orwell/status/1206941391999385600?s=12)
 - [100 Couples Share Their Secrets to a Successful Relationship](https://theprofile.substack.com/p/100-couples-share-their-secrets-to)
+- [Eight Dates: Essential Conversations for a Lifetime of Love](https://www.amazon.com/Eight-Dates-Essential-Conversations-Lifetime/dp/1523504463/)
+
+### Conflict
+- [The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)
+  - [The Four Horsemen: The Antidotes](https://www.gottman.com/blog/the-four-horsemen-the-antidotes/)
 
 ## Books
 - [Getting the Love You Want](https://www.amazon.com/Getting-Love-You-Want-Anniversary/dp/0805087001), Harville Hendrix

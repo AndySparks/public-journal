@@ -1,4 +1,4 @@
-# Relationships Reading List
+# Romantic Relationships Reading List
 
 ## Articles
 - [How to Pick Your Life Partner – Part 1](https://waitbutwhy.com/2014/02/pick-life-partner.html), Wait But Why

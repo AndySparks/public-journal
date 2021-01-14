@@ -3,8 +3,8 @@
 ## Books
 
 ### Essentials
+- [Coaching Skills: A Handbook](https://www.amazon.com/Coaching-Skills-Handbook-Jenny-Rogers/dp/0335245595): This book is the most nuts and bolts, practical guide for beginners I've come across thus far.
 - [The Completely Revised Handbook of Coaching: A Developmental Approach](https://www.amazon.com/Completely-Revised-Handbook-Coaching-Developmental/dp/047090674X)
-- [Coaching Skills: A Handbook](https://www.amazon.com/Coaching-Skills-Handbook-Jenny-Rogers/dp/0335245595)
 - [Building a Coaching Business, 2nd Edition](https://www.amazon.com/Building-Coaching-Business-Rogers-author/dp/0335227007)
 - All four books in Alan Sieler's ["Coaching to the Human Soul"](http://www.newfieldinstitute.com.au/html/books_chsI.html) series.
   - Sometimes an affordable copy of these books shows up on Amazon, but otherwise you have to order them from Australia. They're like $60 / ea. and 100% worth it.

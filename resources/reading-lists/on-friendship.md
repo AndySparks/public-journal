@@ -8,6 +8,7 @@
 - [The Nicomachean Ethics](https://www.amazon.com/Nicomachean-Ethics-Penguin-Classics/dp/0140449493/)
 - [Big Friendship: How We Keep Each Other Close](https://bookshop.org/books/big-friendship-how-we-keep-each-other-close/9781982111908)
 - [David Whyte reads his poem, Friendship](https://dynamic.wakingup.com/course/CC89FC)
+- [Michel de Montaigne on Friendship](https://www.penguinrandomhouse.com/books/297633/on-friendship-by-michel-de-montaigne/)
 
 
 ## Quotes

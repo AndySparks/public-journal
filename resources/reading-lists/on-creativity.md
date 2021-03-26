@@ -2,6 +2,7 @@
 
 - [John Cleese on the Five Factors to Make Your Life More Creative](https://www.brainpickings.org/2012/04/12/john-cleese-on-creativity-1991/)
 - [Isaac Asimov Asks, “How Do People Get New Ideas?”](https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/)
+- [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/)
 
 ## Procrastination
 - Edition No. 35 of Good Work, on Procrastination

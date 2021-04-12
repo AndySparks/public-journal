@@ -48,6 +48,7 @@
 ## Misc Resources
 - Steve Schalfman's Twitter list: [Coach. Lead. Create.](https://twitter.com/i/lists/1281012677175922688)
 - [The Emotional Resilience Wiki](https://www.notion.so/Emotional-Resilience-Wiki-6f025a6bb6b7456b8f3b9925440352f6)
+- [Tapestry](https://www.tapestry.so/): Great tool for co-founders at any point in the co-founding journey.
 
 ## Coaching Schools / Institutes / Programs
 - [Hudson Institute](https://hudsoninstitute.com/)

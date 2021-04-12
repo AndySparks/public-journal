@@ -1,5 +1,8 @@
 # Coaching Reading List
 
+## Explainers
+- [Homebrew Ventures' Guide to Executive Coaching](https://coda.io/@homebrew/executive-coaching)
+
 ## Books
 
 ### Essentials
@@ -50,6 +53,7 @@
 - [The Institute of Coaching](https://www.instituteofcoaching.org): from McLean, an affiliate of Harvard Medical School. The IOC is all about sharing evidence based research related to the field of coaching.
 - [NLP Marin](https://www.nlpmarin.com)
 - [Center for Right Relationships ("CRR")](https://www.crrglobal.com)
+- [Conscious Leadership Group](https://conscious.is/services/trainings)
 
 ## Coaching Organizations
 - [Reboot](https://www.reboot.io/)

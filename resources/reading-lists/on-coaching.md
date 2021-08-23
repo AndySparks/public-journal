@@ -27,6 +27,9 @@
   - Sometimes an affordable copy of these books shows up on Amazon, but otherwise you have to order them from Australia. They're like $60 / ea. and 100% worth it.
 - [On Confidence](https://www.amazon.com/Confidence-thought-provoking-teaches-confidence-learnt/dp/0995573670)
 
+#### Dealing with Anger
+- [Don't Bite the Hook](https://www.amazon.com/Dont-Bite-Hook-Pema-Ch%C3%83%C2%B6dr%C3%83%C2%B6n-audiobook/dp/B077VX1HSD/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1629747884&sr=1-1)
+
 ### Coaching Related Neuroscience
 - [The Neurobiology of "We": How Relationships, the Mind, and the Brain Interact to Shape Who We Are](https://www.amazon.com/Neurobiology-We-Relationships-Interact-Learning/dp/159179949X)
 - [The Master and His Emissary: The Divided Brain and the Making of the Western World Second Edition](https://www.amazon.com/Master-His-Emissary-Divided-Western-dp-0300245920/dp/0300245920/)

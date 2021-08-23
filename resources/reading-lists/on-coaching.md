@@ -25,6 +25,7 @@
 - [The Artist's Way](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252) -- read this book over a ~10 week period. If you only do one of the exercises in this book, I recommend doing "morning pages." My second favorite exercise from the book is the "artist's date," where you take yourself on a date 1x a week!
 - All four books in Alan Sieler's ["Coaching to the Human Soul"](http://www.newfieldinstitute.com.au/html/books_chsI.html) series.
   - Sometimes an affordable copy of these books shows up on Amazon, but otherwise you have to order them from Australia. They're like $60 / ea. and 100% worth it.
+- [On Confidence](https://www.amazon.com/Confidence-thought-provoking-teaches-confidence-learnt/dp/0995573670)
 
 ### Coaching Related Neuroscience
 - [The Neurobiology of "We": How Relationships, the Mind, and the Brain Interact to Shape Who We Are](https://www.amazon.com/Neurobiology-We-Relationships-Interact-Learning/dp/159179949X)

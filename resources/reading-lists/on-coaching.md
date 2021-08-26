@@ -4,6 +4,7 @@
 - [Homebrew Ventures' Guide to Executive Coaching](https://coda.io/@homebrew/executive-coaching)
 - Ed Batista's [How to Find (and Choose) a Coach](https://www.edbatista.com/2013/07/how-to-find-and-choose-a-coach.html)
 - Steve Schalfman's [An Entrepreneur's Guide to Finding a Coach](https://www.slideshare.net/schlaf/an-entrepreneurs-guide-to-finding-a-coach)
+- [Founder Coaching and Having Hard Conversations](https://www.ycombinator.com/library/5H-founder-coaching-and-having-hard-conversations), Y Combinator's Amy Buechler & Michael Siebel on Coaching
 
 ## Books
 

@@ -14,6 +14,7 @@
   - [The Four Horsemen: The Antidotes](https://www.gottman.com/blog/the-four-horsemen-the-antidotes/)
 
 ## Books
+- [Why You Will Marry the Wrong Person](https://www.theschooloflife.com/shop/us/tsol-press-why-you-will-marry-the-wrong-person/)
 - [Getting the Love You Want](https://www.amazon.com/Getting-Love-You-Want-Anniversary/dp/0805087001), Harville Hendrix
 - [How to Find Love (School of Life)](https://www.amazon.com/How-Find-Love-Essay-Books/dp/0995573697)
 - [The Psychology of Romantic Love: Romantic Love in an Anti-Romantic Age](https://www.amazon.com/Psychology-Romantic-Love-Anti-Romantic-Age/dp/1585426253)

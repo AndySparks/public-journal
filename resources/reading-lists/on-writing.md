@@ -22,6 +22,11 @@
 ![image](https://user-images.githubusercontent.com/1100418/75267894-ab1c3c80-57ab-11ea-85a5-8146af64b38a.png)
 ![image](https://user-images.githubusercontent.com/1100418/75267940-ba02ef00-57ab-11ea-92a2-33113a8c2bc2.png)
 
+## Robert McKee Books
+- [Story: Style, Structure, Substance, and the Principles of Screenwriting](https://www.amazon.com/Story-Structure-Substance-Principles-Screenwriting-ebook/dp/B0042FZVOY)
+- [Dialogue: The Art of Verbal Action for Page, Stage, and Screen](https://www.amazon.com/Dialogue-Verbal-Action-Stage-Screen-ebook/dp/B017RQP30Q/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+- [Character: The Art of Role and Cast Design for Page, Stage, and Screen](https://www.amazon.com/Character-Role-Design-Stage-Screen/dp/1455591955)
+
 ## Publishing a Book
 - [APE: Author, Publisher, Entrepreneur—How to Publish a Book](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-ebook/dp/B00AGFU5VS)
 - [The Essential Guide to Getting Your Book Published: How to Write It, Sell It, and Market It . . . Successfully](https://www.amazon.com/gp/product/B004FLL4IM)

@@ -22,10 +22,32 @@
 ![image](https://user-images.githubusercontent.com/1100418/75267894-ab1c3c80-57ab-11ea-85a5-8146af64b38a.png)
 ![image](https://user-images.githubusercontent.com/1100418/75267940-ba02ef00-57ab-11ea-92a2-33113a8c2bc2.png)
 
-## Robert McKee Books
+## Fiction
+### Robert McKee Books
+Explicitly, these are for screenwriters, but I think there's a lot of benefit for anyone interested in telling stories in general or writing fiction.
 - [Story: Style, Structure, Substance, and the Principles of Screenwriting](https://www.amazon.com/Story-Structure-Substance-Principles-Screenwriting-ebook/dp/B0042FZVOY)
 - [Dialogue: The Art of Verbal Action for Page, Stage, and Screen](https://www.amazon.com/Dialogue-Verbal-Action-Stage-Screen-ebook/dp/B017RQP30Q/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Character: The Art of Role and Cast Design for Page, Stage, and Screen](https://www.amazon.com/Character-Role-Design-Stage-Screen/dp/1455591955)
+
+### Brandon Sanderson Lectures on Writing Sci-Fi and Fantasy
+- [Week 1: Introduction](https://www.youtube.com/watch?v=-6HOdHEeosc)
+- [Week 2: Plot Part One](https://www.youtube.com/watch?v=jrIogch5DBU)
+- [Week 3: Plot Part Two](https://www.youtube.com/watch?v=Qgbsz7Gnrd8)
+- [Week 4: Viewpoint and Q&A](https://www.youtube.com/watch?v=zVXFNw-xz3Y)
+- [Week 5: Worldbuilding Part One](https://www.youtube.com/watch?v=ATNvOk5rIJA&t)
+- [Week 6: Worldbuilding Part Two](https://www.youtube.com/watch?v=V2KpWOLTXx8)
+- [Week 7: Short Stores—With Special Guest Mary Robinette Kowal](https://www.youtube.com/watch?v=blehVIDyuXk)
+- [Week 8: Worldbuilding Q&A](https://www.youtube.com/watch?v=W1afbpM80b0)
+- [Week 9: Characters Part One](https://www.youtube.com/watch?v=1NCiuI6F5O0)
+- [Week 10: Characters Part Two](https://www.youtube.com/watch?v=fJfE-HMfSkk)
+- [Week 11: Character Q&A](https://www.youtube.com/watch?v=VeXqndZdzwE)
+- [Lecture 12: Publishing Part One](https://www.youtube.com/watch?v=-f0biNdwifI)
+- [Lecture 13: Publishing Part Two](https://www.youtube.com/watch?v=tHdYX418PaA)
+
+### Podcasts
+- [Writing Excuses](https://writingexcuses.com/)
+- [Scriptnotes](https://scriptnotes.net/)
+ - [Episode 403: How to Write a Movie](https://www.youtube.com/watch?v=vSX-DROZuzY)
 
 ## Publishing a Book
 - [APE: Author, Publisher, Entrepreneur—How to Publish a Book](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-ebook/dp/B00AGFU5VS)

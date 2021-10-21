@@ -47,7 +47,7 @@ Explicitly, these are for screenwriters, but I think there's a lot of benefit fo
 ### Podcasts
 - [Writing Excuses](https://writingexcuses.com/)
 - [Scriptnotes](https://scriptnotes.net/)
- - [Episode 403: How to Write a Movie](https://www.youtube.com/watch?v=vSX-DROZuzY)
+  - [Episode 403: How to Write a Movie](https://www.youtube.com/watch?v=vSX-DROZuzY)
 
 ## Publishing a Book
 - [APE: Author, Publisher, Entrepreneur—How to Publish a Book](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-ebook/dp/B00AGFU5VS)

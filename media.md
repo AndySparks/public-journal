@@ -15,23 +15,25 @@
 - [Product Hunt Radio: Episode 18 w/ Danielle Morrill, Andy Sparks, & Angela Kingyens](https://ryanhoover.me/post/94501580973/product-hunt-radio-episode-18-w-danielle)
 - [The Pipeline Tactics of Mattermark’s Sales Team](http://rocketship.fm/episodes/ep-113-andy-sparks/)
 
-## Holloway
-- [Holloway Is Building A New Way To Publish Books Online](https://www.forbes.com/sites/theodorecasey/2019/12/19/holloway-is-building-a-new-way-to-publish-books-online/)
-- [Holloway launches in-depth startup guides, aims to rewrite publishing with $4.6M from NYT, tech VCs](https://techcrunch.com/2019/08/01/holloway-launches-in-depth-startup-guides-aims-to-rewrite-publishing-with-4-6m-from-nyt-top-tech-investors/)
-- [Here's the pitch deck that Holloway used to raise $4.6 million from NEA and The New York Times for its online 'how-to' manual business](https://www.businessinsider.com/holloway-seed-funding-pitch-deck-nea-2019-7)
-- [Holloway raises money to rewrite publishing for today’s digital future](https://thehustle.co/Holloway-raising-venture-capital-book/)
-
-## Mattermark
-- [In a town of gamblers, Mattermark is counting cards](https://venturebeat.com/2013/08/22/in-a-town-of-gamblers-mattermark-is-counting-cards/)
-- [Backed By NEA And Andreessen Horowitz, Mattermark (Formerly Referly) Wants To Be The Data Signaling Platform For VCs](https://techcrunch.com/2013/06/04/backed-by-nea-andreessen-horowitz-mattermark-formerly-referly-wants-to-be-the-data-signaling-platform-for-vcs/)
-- [Mattermark – An Example of How We Decide to Invest](https://feld.com/archives/2014/12/mattermark-example-decide-invest.html)
-- [How Startups Can Become The Unexpected Parental Leave Champs](https://techcrunch.com/2015/10/28/how-startups-can-become-the-unexpected-parental-leave-champs/)
-- [Sales research startup Mattermark raises $7.3 million, now valued at $42 million](https://venturebeat.com/2016/03/20/sales-research-startup-mattermark-raises-7-3-million-now-valued-at-42-million/)
-- [Mattermark to shut down after selling to FullContact](https://techcrunch.com/2017/12/21/mattermark-to-shut-down-after-selling-to-full-contact/)
-
 ## Articles
 - [Workspaces #190 - Andy Sparks](https://www.workspaces.xyz/p/190-andy-sparks)
 - [Andy Sparks, CEO of Holloway, on Living a More Conscious Life](https://superorganizers.substack.com/p/andy-sparks-ceo-of-holloway-on-living)
 - [Finding Founders Andy Sparks of Holloway](http://www.battlecry.co/battlecryblog-meat-space/finding-founders-andy-sparks-of-holloway)
 - [Failure, family and the wisdom of Yoda: 3 tips on dealing with startup pain](https://www.geekwire.com/2015/failure-family-and-the-wisdom-of-yoda-3-tips-on-dealing-with-startup-pain/)
 - [Forbes 30 Under 30](https://www.forbes.com/profile/andy-sparks/#71907ad0120a)
+
+## Company-Related Media
+
+### Holloway
+- [Holloway Is Building A New Way To Publish Books Online](https://www.forbes.com/sites/theodorecasey/2019/12/19/holloway-is-building-a-new-way-to-publish-books-online/)
+- [Holloway launches in-depth startup guides, aims to rewrite publishing with $4.6M from NYT, tech VCs](https://techcrunch.com/2019/08/01/holloway-launches-in-depth-startup-guides-aims-to-rewrite-publishing-with-4-6m-from-nyt-top-tech-investors/)
+- [Here's the pitch deck that Holloway used to raise $4.6 million from NEA and The New York Times for its online 'how-to' manual business](https://www.businessinsider.com/holloway-seed-funding-pitch-deck-nea-2019-7)
+- [Holloway raises money to rewrite publishing for today’s digital future](https://thehustle.co/Holloway-raising-venture-capital-book/)
+
+### Mattermark
+- [In a town of gamblers, Mattermark is counting cards](https://venturebeat.com/2013/08/22/in-a-town-of-gamblers-mattermark-is-counting-cards/)
+- [Backed By NEA And Andreessen Horowitz, Mattermark (Formerly Referly) Wants To Be The Data Signaling Platform For VCs](https://techcrunch.com/2013/06/04/backed-by-nea-andreessen-horowitz-mattermark-formerly-referly-wants-to-be-the-data-signaling-platform-for-vcs/)
+- [Mattermark – An Example of How We Decide to Invest](https://feld.com/archives/2014/12/mattermark-example-decide-invest.html)
+- [How Startups Can Become The Unexpected Parental Leave Champs](https://techcrunch.com/2015/10/28/how-startups-can-become-the-unexpected-parental-leave-champs/)
+- [Sales research startup Mattermark raises $7.3 million, now valued at $42 million](https://venturebeat.com/2016/03/20/sales-research-startup-mattermark-raises-7-3-million-now-valued-at-42-million/)
+- [Mattermark to shut down after selling to FullContact](https://techcrunch.com/2017/12/21/mattermark-to-shut-down-after-selling-to-full-contact/)

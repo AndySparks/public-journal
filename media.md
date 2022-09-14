@@ -30,6 +30,7 @@
 - [Mattermark to shut down after selling to FullContact](https://techcrunch.com/2017/12/21/mattermark-to-shut-down-after-selling-to-full-contact/)
 
 ## Articles
+- [Workspaces #190 - Andy Sparks](https://www.workspaces.xyz/p/190-andy-sparks)
 - [Andy Sparks, CEO of Holloway, on Living a More Conscious Life](https://superorganizers.substack.com/p/andy-sparks-ceo-of-holloway-on-living)
 - [Finding Founders Andy Sparks of Holloway](http://www.battlecry.co/battlecryblog-meat-space/finding-founders-andy-sparks-of-holloway)
 - [Failure, family and the wisdom of Yoda: 3 tips on dealing with startup pain](https://www.geekwire.com/2015/failure-family-and-the-wisdom-of-yoda-3-tips-on-dealing-with-startup-pain/)

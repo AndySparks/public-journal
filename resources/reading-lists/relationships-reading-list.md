@@ -7,11 +7,14 @@
 - [1,500 People Give All the Relationship Advice You'll Ever Need](https://markmanson.net/relationship-advice), Mark Manson
 - [Twitter thread by Sol Orwell](https://twitter.com/sol_orwell/status/1206941391999385600?s=12)
 - [100 Couples Share Their Secrets to a Successful Relationship](https://theprofile.substack.com/p/100-couples-share-their-secrets-to)
-- [Eight Dates: Essential Conversations for a Lifetime of Love](https://www.amazon.com/Eight-Dates-Essential-Conversations-Lifetime/dp/1523504463/)
+- [Attachment Styles and How They Affect Your Relationships](https://markmanson.net/attachment-styles)
+- [Eight Dates: Essential Conversations for a Lifetime of Love](https://www.amazon.com/Eight-Dates-Essential-Conversations-Lifetime/dp/1523504463/): Kind of hokey, but this can be a good exercise for new couples to get on the same page on a variety of subjects.
+- [The 3 Types of Marriages (Careful, Careless, Caring)][https://www.jaysongaddis.com/the-3-types-of-marriages/]
 
 ### Conflict
 - [The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)
   - [The Four Horsemen: The Antidotes](https://www.gottman.com/blog/the-four-horsemen-the-antidotes/)
+  - [Whether or Not to Fix a Broken Relationship](https://www.edbatista.com/2022/10/whether-or-not-to-fix-a-broken-relationship.html): This piece is written about a business context, but I think it's useful when thinking about a life partnership, too.
 
 ## Books
 - [Why You Will Marry the Wrong Person](https://www.theschooloflife.com/shop/us/tsol-press-why-you-will-marry-the-wrong-person/)

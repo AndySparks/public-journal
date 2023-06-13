@@ -15,6 +15,7 @@
 - [The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)
   - [The Four Horsemen: The Antidotes](https://www.gottman.com/blog/the-four-horsemen-the-antidotes/)
 - [Whether or Not to Fix a Broken Relationship](https://www.edbatista.com/2022/10/whether-or-not-to-fix-a-broken-relationship.html): This piece is written about a business context, but I think it's useful when thinking about a life partnership, too.
+- [The 3 Types of Relationship Fights You Keep Having—And What to Do About Them](https://www.estherperel.com/blog/the-relationship-fights-you-keep-having)
 
 ## Books
 - [Why You Will Marry the Wrong Person](https://www.theschooloflife.com/shop/us/tsol-press-why-you-will-marry-the-wrong-person/)

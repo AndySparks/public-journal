@@ -9,7 +9,7 @@
 - [100 Couples Share Their Secrets to a Successful Relationship](https://theprofile.substack.com/p/100-couples-share-their-secrets-to)
 - [Attachment Styles and How They Affect Your Relationships](https://markmanson.net/attachment-styles)
 - [Eight Dates: Essential Conversations for a Lifetime of Love](https://www.amazon.com/Eight-Dates-Essential-Conversations-Lifetime/dp/1523504463/): Kind of hokey, but this can be a good exercise for new couples to get on the same page on a variety of subjects.
-- [The 3 Types of Marriages (Careful, Careless, Caring)][https://www.jaysongaddis.com/the-3-types-of-marriages/]
+- [The 3 Types of Marriages (Careful, Careless, Caring)](https://www.jaysongaddis.com/the-3-types-of-marriages/)
 
 ### Conflict
 - [The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)
